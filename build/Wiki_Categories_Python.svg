@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="542.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-180.000000 -539.000000 542.000000 784.000000" height="784.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -62.380806,-266.529327 -91.108101,-285.041504 -94.513145,-300.787994"
+              class="de.wikipedia.org Gesprochener Artikel" stroke-opacity="1.0"
+              stroke="#34b945"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -59.706715,-284.398834 -57.618629,-325.704071 -43.154182,-338.776489"
+              class="de.wikipedia.org Lesenswert" stroke-opacity="1.0"
+              stroke="#749736"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -19.015720,-249.864761 -7.692259,-178.332443 -27.761885,-150.713837"
+              class="de.wikipedia.org Python (Programmiersprache)"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -16.226282,-264.909180 21.847979,-211.759354 16.822784,-181.351318"
+              class="de.wikipedia.org Programmiersprache" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -63.298660,-247.219803 -122.367050,-238.144424 -145.081635,-254.808777"
+              class="de.wikipedia.org Skriptsprache" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -44.572289,-242.475937 -82.666924,-198.195190 -110.125381,-196.133163"
+              class="de.wikipedia.org Objektorientierte Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -26.040874,-278.688904 17.981098,-260.930573 26.735638,-240.337128"
+              class="de.wikipedia.org Imperative Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.634319,-269.934387 C -40.004395,-282.473541 -11.250789,-291.337341 1.288354,-284.707428"
+              class="de.wikipedia.org Funktionale Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1.288354,-284.707428 C 27.352924,-281.386322 61.468132,-237.307831 58.147030,-211.243256"
+              class="Funktionale Programmiersprache Deklarative Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 58.147030,-211.243256 C 55.860565,-197.000015 31.066023,-179.064865 16.822784,-181.351318"
+              class="Deklarative Programmiersprache Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 26.735638,-240.337128 C 36.550228,-226.557388 30.602516,-191.165909 16.822784,-181.351318"
+              class="Imperative Programmiersprache Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -110.125381,-196.133163 C -81.779381,-218.566422 -5.610480,-209.697327 16.822784,-181.351318"
+              class="Objektorientierte Programmiersprache Programmiersprache"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -110.125381,-196.133163 C -106.112900,-187.859329 -112.504921,-169.429840 -120.778755,-165.417358"
+              class="Objektorientierte Programmiersprache Objektorientierte Programmierung"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -120.778755,-165.417358 C -106.957436,-167.437622 -83.195061,-149.736053 -81.174797,-135.914734"
+              class="Objektorientierte Programmierung Programmierparadigma"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -81.174797,-135.914734 C -70.841530,-138.269547 -51.809422,-126.301849 -49.454617,-115.968582"
+              class="Programmierparadigma Programmierung" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -49.454617,-115.968582 C -37.728592,-98.330948 -46.596004,-54.285458 -64.233643,-42.559433"
+              class="Programmierung Softwaretechnik" stroke-opacity="1.0"
+              stroke="#a5a781"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -64.233643,-42.559433 C -54.170979,-47.069813 -32.311420,-38.741390 -27.801043,-28.678728"
+              class="Softwaretechnik Praktische Informatik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -64.233643,-42.559433 C -53.909401,-24.620502 -65.331444,17.774254 -83.270370,28.098495"
+              class="Softwaretechnik Software" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -83.270370,28.098495 C -68.413666,35.734985 -57.583344,69.474785 -65.219833,84.331490"
+              class="Software Informationstechnik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -83.270370,28.098495 C -82.849579,44.198967 -106.369095,68.980858 -122.469566,69.401649"
+              class="Software Informatik und Gesellschaft" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -83.270370,28.098495 C -72.853508,46.588982 -84.963936,89.950005 -103.454422,100.366867"
+              class="Software Publikation" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -83.270370,28.098495 C -55.166885,29.329834 -14.858671,73.332077 -16.090012,101.435562"
+              class="Software Werke" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -16.090012,101.435562 C 12.834639,99.089417 59.740829,138.957184 62.086975,167.881821"
+              class="Werke Sachsystematik" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 62.086975,167.881821 C 64.474426,176.858582 54.590469,193.904892 45.613708,196.292358"
+              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -103.454422,100.366867 C -93.600609,97.296150 -74.213814,107.470810 -71.143097,117.324623"
+              class="Publikation Kommunikation" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -103.454422,100.366867 C -102.565445,120.759354 -131.820724,152.681549 -152.213211,153.570526"
+              class="Publikation %C3%96ffentlichkeit" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -152.213211,153.570526 C -127.924957,129.440689 -55.297802,129.678299 -31.167953,153.966553"
+              class="%C3%96ffentlichkeit Gesellschaft" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -31.167953,153.966553 C -9.733914,138.098618 46.219044,146.447784 62.086975,167.881821"
+              class="Gesellschaft Sachsystematik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -71.143097,117.324623 C -53.676655,109.233475 -15.340276,123.296417 -7.249130,140.762863"
+              class="Kommunikation Kommunikation und Medien"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -7.249130,140.762863 C 12.041883,132.319443 53.643547,148.590805 62.086975,167.881821"
+              class="Kommunikation und Medien Sachsystematik"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -122.469566,69.401649 C -113.566193,49.906002 -70.967651,34.017609 -51.472008,42.920990"
+              class="Informatik und Gesellschaft Digitale Welt"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -122.469566,69.401649 C -87.296265,68.054306 -32.515297,118.793251 -31.167953,153.966553"
+              class="Informatik und Gesellschaft Gesellschaft"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -51.472008,42.920990 C -3.768045,45.201359 64.367348,120.177856 62.086975,167.881821"
+              class="Digitale Welt Sachsystematik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -65.219833,84.331490 C -54.891197,107.395248 -73.993896,157.483856 -97.057655,167.812485"
+              class="Informationstechnik Technik nach Fachgebiet"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -65.219833,84.331490 C -70.752365,73.299828 -62.503674,48.453526 -51.472008,42.920990"
+              class="Informationstechnik Digitale Welt" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -97.057655,167.812485 C -82.919388,164.736176 -57.097511,181.329102 -54.021194,195.467361"
+              class="Technik nach Fachgebiet Technik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -54.021194,195.467361 C -42.912090,178.859512 -1.336659,170.611404 15.271188,181.720505"
+              class="Technik Naturwissenschaft und Technik" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 15.271188,181.720505 C 21.866610,169.589615 49.956078,161.286392 62.086975,167.881821"
+              class="Naturwissenschaft und Technik Sachsystematik"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -27.801043,-28.678728 C -18.329882,-25.550413 -8.815613,-6.651199 -11.943928,2.819963"
+              class="Praktische Informatik Informatik nach Fachgebiet"
+              stroke-opacity="1.0" stroke="#f074c2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -11.943928,2.819963 C -2.246366,-1.389857 18.614706,6.841755 22.824526,16.539318"
+              class="Informatik nach Fachgebiet Informatik" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 22.824526,16.539318 C 60.421253,1.486818 139.395081,35.303162 154.447586,72.899887"
+              class="Informatik Wissenschaft nach Fachgebiet"
+              stroke-opacity="1.0" stroke="#7f92c2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 22.824526,16.539318 C 13.241554,36.674957 -31.336367,52.503960 -51.472008,42.920990"
+              class="Informatik Digitale Welt" stroke-opacity="1.0"
+              stroke="#f074c2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 154.447586,72.899887 C 168.740891,85.736038 170.926636,126.430237 158.090485,140.723541"
+              class="Wissenschaft nach Fachgebiet Wissenschaft"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 154.447586,72.899887 C 153.490540,84.469658 134.700302,100.388741 123.130516,99.431686"
+              class="Wissenschaft nach Fachgebiet Fachwissen"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 123.130516,99.431686 C 128.837662,115.462051 113.352806,148.068314 97.322441,153.775452"
+              class="Fachwissen Wissen" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 97.322441,153.775452 C 93.096619,163.643814 71.955345,172.107635 62.086975,167.881821"
+              class="Wissen Sachsystematik" stroke-opacity="1.0"
+              stroke="#71a9ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 158.090485,140.723541 C 148.547256,155.487534 112.086433,163.318680 97.322441,153.775452"
+              class="Wissenschaft Wissen" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -145.081635,-254.808777 C -136.080902,-251.827362 -127.051895,-233.854156 -130.033310,-224.853424"
+              class="Skriptsprache Interpretersprache" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -130.033310,-224.853424 C -91.961670,-245.524216 -3.848012,-219.422958 16.822784,-181.351318"
+              class="Interpretersprache Programmiersprache" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 16.822784,-181.351318 C 16.643852,-155.019287 -23.122587,-115.789658 -49.454617,-115.968582"
+              class="Programmiersprache Programmierung" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 16.822784,-181.351318 C 36.301426,-165.044617 41.059349,-111.366631 24.752653,-91.887985"
+              class="Programmiersprache Formale Sprache" stroke-opacity="1.0"
+              stroke="#b49044"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 24.752653,-91.887985 C 53.149632,-88.839340 91.172134,-41.670906 88.123489,-13.273926"
+              class="Formale Sprache Konstruierte Sprache" stroke-opacity="1.0"
+              stroke="#fc7742"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 24.752653,-91.887985 C 29.106712,-82.144691 21.022856,-60.998653 11.279558,-56.644592"
+              class="Formale Sprache Formale Sprachen" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 11.279558,-56.644592 C 28.225334,-44.316803 35.152313,-0.406459 22.824526,16.539318"
+              class="Formale Sprachen Informatik" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 88.123489,-13.273926 C 97.249046,-4.937021 98.432030,21.256674 90.095123,30.382233"
+              class="Konstruierte Sprache Sprache nach Eigenschaft"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 88.123489,-13.273926 C 110.193054,-25.692568 161.925339,-11.216190 174.343994,10.853373"
+              class="Konstruierte Sprache Wissensorganisation"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 174.343994,10.853373 C 181.412918,17.098658 182.648407,37.069988 176.403122,44.138927"
+              class="Wissensorganisation Dokumentation" stroke-opacity="1.0"
+              stroke="#7dac7f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 174.343994,10.853373 C 162.894684,41.079239 100.381950,69.244087 70.156090,57.794788"
+              class="Wissensorganisation Planung und Organisation"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 70.156090,57.794788 C 80.153976,69.994324 76.851501,103.290459 64.651970,113.288345"
+              class="Planung und Organisation Organisationen"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 64.651970,113.288345 C 75.057663,124.720039 73.518669,157.476120 62.086975,167.881821"
+              class="Organisationen Sachsystematik" stroke-opacity="1.0"
+              stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 176.403122,44.138927 C 222.652344,20.360294 327.694122,54.066181 351.472748,100.315399"
+              class="Dokumentation Informationswissenschaft"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 176.403122,44.138927 C 192.495941,56.956024 197.409515,100.320885 184.592422,116.413704"
+              class="Dokumentation Wissenspraxis" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 184.592422,116.413704 C 174.610779,141.340057 122.248787,163.757095 97.322441,153.775452"
+              class="Wissenspraxis Wissen" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 351.472748,100.315399 C 320.498474,125.871826 235.702423,117.745041 210.145996,86.770767"
+              class="Informationswissenschaft Geisteswissenschaft"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 210.145996,86.770767 C 196.232147,95.136269 162.813095,86.813744 154.447586,72.899887"
+              class="Geisteswissenschaft Wissenschaft nach Fachgebiet"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 90.095123,30.382233 C 91.818336,53.117409 60.300392,89.805000 37.565212,91.528214"
+              class="Sprache nach Eigenschaft Sprache" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 37.565212,91.528214 C 38.449276,110.338013 11.560669,139.878815 -7.249130,140.762863"
+              class="Sprache Kommunikation und Medien" stroke-opacity="1.0"
+              stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 37.565212,91.528214 C 47.023483,96.681107 53.481552,118.597855 48.328663,128.056122"
+              class="Sprache Kunst und Kultur" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 48.328663,128.056122 C 59.045467,133.269592 67.300453,157.165024 62.086975,167.881821"
+              class="Kunst und Kultur Sachsystematik" stroke-opacity="1.0"
+              stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -27.761885,-150.713837 C -49.305962,-135.051163 -105.116089,-143.873276 -120.778755,-165.417358"
+              class="Python (Programmiersprache) Objektorientierte Programmierung"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -27.761885,-150.713837 C -14.831584,-134.105988 -20.347919,-89.798744 -36.955780,-76.868439"
+              class="Python (Programmiersprache) Programmiersprache als Thema"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -36.955780,-76.868439 C -32.215290,-55.342083 -57.394089,-15.941823 -78.920441,-11.201332"
+              class="Programmiersprache als Thema Software als Thema"
+              stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -36.955780,-76.868439 C -23.263943,-82.470734 5.677260,-70.336426 11.279558,-56.644592"
+              class="Programmiersprache als Thema Formale Sprachen"
+              stroke-opacity="1.0" stroke="#b49044"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -36.955780,-76.868439 C -47.275578,-82.188698 -54.774879,-105.648781 -49.454617,-115.968582"
+              class="Programmiersprache als Thema Programmierung"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -78.920441,-11.201332 C -72.192047,-24.920692 -41.520405,-35.407127 -27.801043,-28.678728"
+              class="Software als Thema Praktische Informatik"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -78.920441,-11.201332 C -71.930466,-2.471380 -74.540421,21.108515 -83.270370,28.098495"
+              class="Software als Thema Software" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -43.154182,-338.776489 C -54.360950,-350.620178 -53.405579,-385.195831 -41.561893,-396.402618"
+              class="Lesenswert Bewertete Seite" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -41.561893,-396.402618 C -49.782784,-402.403656 -53.112560,-423.736542 -47.111526,-431.957428"
+              class="Bewertete Seite Bewertung" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -47.111526,-431.957428 C -50.059406,-441.649933 -39.942497,-460.610474 -30.250011,-463.558350"
+              class="Bewertung Wartung" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -47.111526,-431.957428 C -59.453526,-443.822113 -60.169483,-480.132172 -48.304794,-492.474152"
+              class="Bewertung Autorenportal" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -48.304794,-492.474152 C -53.347702,-501.695526 -47.080029,-523.091919 -37.858669,-528.134827"
+              class="Autorenportal Gemeinschaft" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 40.996063,234.439178 C 34.290230,225.886292 37.060814,202.998199 45.613708,196.292358"
+              class="!Wikipedia !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -94.513145,-300.787994 C -104.983429,-300.232147 -121.522652,-315.103790 -122.078506,-325.574066"
+              class="Gesprochener Artikel Gesprochene Wikipedia"
+              stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -122.078506,-325.574066 C -131.885086,-327.714600 -143.384140,-345.635284 -141.243607,-355.441833"
+              class="Gesprochene Wikipedia Publikationen" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -141.243607,-355.441833 C -152.214417,-355.281799 -168.910675,-371.498016 -169.070694,-382.468842"
+              class="Publikationen %C3%9Cber Wikipedia" stroke-opacity="1.0"
+              stroke="#00af87"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-46.63432"
+                class="de.wikipedia.org" cy="-269.9344" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-94.513145"
+                class="Gesprochener Artikel" cy="-300.788" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-43.154182"
+                class="Lesenswert" cy="-338.7765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-27.761885"
+                class="Python (Programmiersprache)" cy="-150.71384"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="16.822784"
+                class="Programmiersprache" cy="-181.35132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-145.08163"
+                class="Skriptsprache" cy="-254.80878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-110.12538"
+                class="Objektorientierte Programmiersprache" cy="-196.13316"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="26.735638"
+                class="Imperative Programmiersprache" cy="-240.33713"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1.2883543"
+                class="Funktionale Programmiersprache" cy="-284.70743"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="58.14703"
+                class="Deklarative Programmiersprache" cy="-211.24326"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-120.778755"
+                class="Objektorientierte Programmierung" cy="-165.41736"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-81.1748"
+                class="Programmierparadigma" cy="-135.91473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-49.454617"
+                class="Programmierung" cy="-115.96858" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-64.23364"
+                class="Softwaretechnik" cy="-42.559433" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-27.801043"
+                class="Praktische Informatik" cy="-28.678728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-83.27037"
+                class="Software" cy="28.098495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-65.21983"
+                class="Informationstechnik" cy="84.33149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-122.46957"
+                class="Informatik und Gesellschaft" cy="69.40165"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-103.45442"
+                class="Publikation" cy="100.36687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-16.090012"
+                class="Werke" cy="101.43556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="62.086975"
+                class="Sachsystematik" cy="167.88182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="45.61371"
+                class="!Hauptkategorie" cy="196.29236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-71.1431"
+                class="Kommunikation" cy="117.32462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-152.21321"
+                class="%C3%96ffentlichkeit" cy="153.57053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-31.167953"
+                class="Gesellschaft" cy="153.96655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-7.2491302"
+                class="Kommunikation und Medien" cy="140.76286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-51.472008"
+                class="Digitale Welt" cy="42.92099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-97.057655"
+                class="Technik nach Fachgebiet" cy="167.81248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-54.021194"
+                class="Technik" cy="195.46736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="15.271188"
+                class="Naturwissenschaft und Technik" cy="181.7205"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-11.943928"
+                class="Informatik nach Fachgebiet" cy="2.8199625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="22.824526"
+                class="Informatik" cy="16.539318" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="154.44759"
+                class="Wissenschaft nach Fachgebiet" cy="72.89989"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="158.09048"
+                class="Wissenschaft" cy="140.72354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="123.130516"
+                class="Fachwissen" cy="99.43169" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="97.32244"
+                class="Wissen" cy="153.77545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-130.03331"
+                class="Interpretersprache" cy="-224.85342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="24.752653"
+                class="Formale Sprache" cy="-91.887985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="88.12349"
+                class="Konstruierte Sprache" cy="-13.273926" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="11.279558"
+                class="Formale Sprachen" cy="-56.644592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="90.09512"
+                class="Sprache nach Eigenschaft" cy="30.382233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="174.344"
+                class="Wissensorganisation" cy="10.853373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="176.40312"
+                class="Dokumentation" cy="44.138927" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="70.15609"
+                class="Planung und Organisation" cy="57.79479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="64.65197"
+                class="Organisationen" cy="113.288345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="351.47275"
+                class="Informationswissenschaft" cy="100.3154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="184.59242"
+                class="Wissenspraxis" cy="116.413704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="210.146"
+                class="Geisteswissenschaft" cy="86.77077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="37.565212"
+                class="Sprache" cy="91.52821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="48.328663"
+                class="Kunst und Kultur" cy="128.05612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-36.95578"
+                class="Programmiersprache als Thema" cy="-76.86844"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-78.92044"
+                class="Software als Thema" cy="-11.201332" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-41.561893"
+                class="Bewertete Seite" cy="-396.40262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-47.111526"
+                class="Bewertung" cy="-431.95743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-30.250011"
+                class="Wartung" cy="-463.55835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-48.304794"
+                class="Autorenportal" cy="-492.47415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-37.85867"
+                class="Gemeinschaft" cy="-528.1348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="40.996063"
+                class="!Wikipedia" cy="234.43918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-122.07851"
+                class="Gesprochene Wikipedia" cy="-325.57407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-141.2436"
+                class="Publikationen" cy="-355.44183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-169.0707"
+                class="%C3%9Cber Wikipedia" cy="-382.46884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="10" x="-46.63432" y="-267.51495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="de.wikipedia.org">
+            de.wikipedia.org
+        </text>
+        <text font-size="10" x="-94.513145" y="-298.36856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesprochener Artikel">
+            Gesprochener Artikel
+        </text>
+        <text font-size="10" x="-43.154182" y="-336.9178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lesenswert">
+            Lesenswert
+        </text>
+        <text font-size="10" x="-27.761885" y="-148.2944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Python (Programmiersprache)">
+            Python (Programmiersprache)
+        </text>
+        <text font-size="10" x="16.822784" y="-178.93188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Programmiersprache">
+            Programmiersprache
+        </text>
+        <text font-size="10" x="-145.08163" y="-252.38934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Skriptsprache">
+            Skriptsprache
+        </text>
+        <text font-size="10" x="-110.12538" y="-193.71373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Objektorientierte Programmiersprache">
+            Objektorientierte Programmiersprache
+        </text>
+        <text font-size="10" x="26.735638" y="-237.9177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Imperative Programmiersprache">
+            Imperative Programmiersprache
+        </text>
+        <text font-size="10" x="1.2883543" y="-282.288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Funktionale Programmiersprache">
+            Funktionale Programmiersprache
+        </text>
+        <text font-size="10" x="58.14703" y="-208.82382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Deklarative Programmiersprache">
+            Deklarative Programmiersprache
+        </text>
+        <text font-size="10" x="-120.778755" y="-162.99792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Objektorientierte Programmierung">
+            Objektorientierte Programmierung
+        </text>
+        <text font-size="10" x="-81.1748" y="-133.4953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Programmierparadigma">
+            Programmierparadigma
+        </text>
+        <text font-size="10" x="-49.454617" y="-113.54915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Programmierung">
+            Programmierung
+        </text>
+        <text font-size="10" x="-64.23364" y="-40.62421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Softwaretechnik">
+            Softwaretechnik
+        </text>
+        <text font-size="10" x="-27.801043" y="-26.743507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Praktische Informatik">
+            Praktische Informatik
+        </text>
+        <text font-size="10" x="-83.27037" y="30.033716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Software">
+            Software
+        </text>
+        <text font-size="10" x="-65.21983" y="86.26671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Informationstechnik">
+            Informationstechnik
+        </text>
+        <text font-size="10" x="-122.46957" y="71.33687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Informatik und Gesellschaft">
+            Informatik und Gesellschaft
+        </text>
+        <text font-size="10" x="-103.45442" y="102.302086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Publikation">
+            Publikation
+        </text>
+        <text font-size="10" x="-16.090012" y="103.37078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Werke">
+            Werke
+        </text>
+        <text font-size="10" x="62.086975" y="170.30125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sachsystematik">
+            Sachsystematik
+        </text>
+        <text font-size="10" x="45.61371" y="198.71179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Hauptkategorie">
+            !Hauptkategorie
+        </text>
+        <text font-size="10" x="-71.1431" y="119.25984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kommunikation">
+            Kommunikation
+        </text>
+        <text font-size="10" x="-152.21321" y="155.50575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="%C3%96ffentlichkeit">
+            %C3%96ffentlichkeit
+        </text>
+        <text font-size="10" x="-31.167953" y="155.90178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesellschaft">
+            Gesellschaft
+        </text>
+        <text font-size="10" x="-7.2491302" y="142.69809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kommunikation und Medien">
+            Kommunikation und Medien
+        </text>
+        <text font-size="10" x="-51.472008" y="45.340424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Digitale Welt">
+            Digitale Welt
+        </text>
+        <text font-size="10" x="-97.057655" y="170.23192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Technik nach Fachgebiet">
+            Technik nach Fachgebiet
+        </text>
+        <text font-size="10" x="-54.021194" y="197.40259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Technik">
+            Technik
+        </text>
+        <text font-size="10" x="15.271188" y="183.65573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Naturwissenschaft und Technik">
+            Naturwissenschaft und Technik
+        </text>
+        <text font-size="10" x="-11.943928" y="5.239396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Informatik nach Fachgebiet">
+            Informatik nach Fachgebiet
+        </text>
+        <text font-size="10" x="22.824526" y="18.474539" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Informatik">
+            Informatik
+        </text>
+        <text font-size="10" x="154.44759" y="75.31932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenschaft nach Fachgebiet">
+            Wissenschaft nach Fachgebiet
+        </text>
+        <text font-size="10" x="158.09048" y="142.65877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenschaft">
+            Wissenschaft
+        </text>
+        <text font-size="10" x="123.130516" y="101.366905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Fachwissen">
+            Fachwissen
+        </text>
+        <text font-size="10" x="97.32244" y="155.71068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissen">
+            Wissen
+        </text>
+        <text font-size="10" x="-130.03331" y="-222.43399" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Interpretersprache">
+            Interpretersprache
+        </text>
+        <text font-size="10" x="24.752653" y="-89.46855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Formale Sprache">
+            Formale Sprache
+        </text>
+        <text font-size="10" x="88.12349" y="-10.854492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Konstruierte Sprache">
+            Konstruierte Sprache
+        </text>
+        <text font-size="10" x="11.279558" y="-54.22516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Formale Sprachen">
+            Formale Sprachen
+        </text>
+        <text font-size="10" x="90.09512" y="32.801666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sprache nach Eigenschaft">
+            Sprache nach Eigenschaft
+        </text>
+        <text font-size="10" x="174.344" y="13.272806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissensorganisation">
+            Wissensorganisation
+        </text>
+        <text font-size="10" x="176.40312" y="46.07415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Dokumentation">
+            Dokumentation
+        </text>
+        <text font-size="10" x="70.15609" y="60.214222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Planung und Organisation">
+            Planung und Organisation
+        </text>
+        <text font-size="10" x="64.65197" y="115.70778" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Organisationen">
+            Organisationen
+        </text>
+        <text font-size="10" x="351.47275" y="102.25062" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Informationswissenschaft">
+            Informationswissenschaft
+        </text>
+        <text font-size="10" x="184.59242" y="118.83314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenspraxis">
+            Wissenspraxis
+        </text>
+        <text font-size="10" x="210.146" y="88.705986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Geisteswissenschaft">
+            Geisteswissenschaft
+        </text>
+        <text font-size="10" x="37.565212" y="93.94765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sprache">
+            Sprache
+        </text>
+        <text font-size="10" x="48.328663" y="129.99135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kunst und Kultur">
+            Kunst und Kultur
+        </text>
+        <text font-size="10" x="-36.95578" y="-74.449005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Programmiersprache als Thema">
+            Programmiersprache als Thema
+        </text>
+        <text font-size="10" x="-78.92044" y="-9.26611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Software als Thema">
+            Software als Thema
+        </text>
+        <text font-size="10" x="-41.561893" y="-394.4674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bewertete Seite">
+            Bewertete Seite
+        </text>
+        <text font-size="10" x="-47.111526" y="-429.6145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bewertung">
+            Bewertung
+        </text>
+        <text font-size="10" x="-30.250011" y="-461.21542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wartung">
+            Wartung
+        </text>
+        <text font-size="10" x="-48.304794" y="-490.05472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Autorenportal">
+            Autorenportal
+        </text>
+        <text font-size="10" x="-37.85867" y="-526.1996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gemeinschaft">
+            Gemeinschaft
+        </text>
+        <text font-size="10" x="40.996063" y="236.85861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Wikipedia">
+            !Wikipedia
+        </text>
+        <text font-size="10" x="-122.07851" y="-323.15463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesprochene Wikipedia">
+            Gesprochene Wikipedia
+        </text>
+        <text font-size="10" x="-141.2436" y="-353.50662" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Publikationen">
+            Publikationen
+        </text>
+        <text font-size="10" x="-169.0707" y="-380.0494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="%C3%9Cber Wikipedia">
+            %C3%9Cber Wikipedia
+        </text>
+    </g>
+</svg>

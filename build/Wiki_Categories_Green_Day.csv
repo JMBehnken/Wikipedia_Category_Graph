@@ -1,0 +1,180 @@
+Source,Target
+Green Day,Alternative-Rock-Band
+Green Day,Echo-Pop-Preisträger
+Green Day,Grammy-Preisträger
+Green Day,Green Day
+Green Day,Punkband
+Green Day,US-amerikanische Band
+Green Day,Pop-Punk-Band
+Pop-Punk-Band,Popband
+Pop-Punk-Band,Punkband
+Green Day,Musikgruppe als Thema
+Punkband,Punk
+Punkband,Musikgruppe nach Genre
+US-amerikanische Band,Band nach Staat
+US-amerikanische Band,Musikgruppe (Vereinigte Staaten)
+Echo-Pop-Preisträger,Echo (Musikpreis)
+Echo-Pop-Preisträger,Musikpreisträger
+Echo-Pop-Preisträger,Preisträger (Deutschland)
+Alternative-Rock-Band,Rockband
+Grammy-Preisträger,Grammy Awards
+Grammy-Preisträger,Musikpreisträger
+Grammy-Preisträger,Preisträger (Vereinigte Staaten)
+Grammy Awards,Musikpreis als Thema
+Preisträger (Deutschland),Preisträger nach Staat
+Preisträger (Deutschland),Gesellschaft (Deutschland)
+Musikpreisträger,Preisträger
+Musikpreisträger,Musik
+Preisträger (Vereinigte Staaten),Preisträger nach Staat
+Preisträger (Vereinigte Staaten),Gesellschaft (Vereinigte Staaten)
+Musikgruppe (Vereinigte Staaten),Musikgruppe nach Staat
+Musikgruppe (Vereinigte Staaten),Musik (Vereinigte Staaten)
+Musikgruppe (Vereinigte Staaten),Künstlergruppe (Vereinigte Staaten)
+Rockband,Musikgruppe nach Genre
+Rockband,Rock (Musik)
+Band nach Staat,Musikgruppe nach Staat
+Echo (Musikpreis),Musikpreis (Deutschland) als Thema
+Musikgruppe nach Genre,Musik nach Genre
+Musikgruppe nach Genre,Musikgruppe
+Punk,Musik nach Genre
+Punk,Jugendkultur
+Punk,Subkultur
+Musikgruppe als Thema,Musik
+Musikgruppe als Thema,Künstlergruppe als Thema
+Popband,Musikgruppe nach Genre
+Popband,Popmusik
+Subkultur,Kunst und Kultur
+Subkultur,Soziale Bewegungen
+Popmusik,Musik nach Genre
+Musik nach Genre,Musik
+Musikpreis (Deutschland) als Thema,Musikpreis als Thema
+Musikpreis (Deutschland) als Thema,Musik (Deutschland)
+Jugendkultur,Jugend
+Jugendkultur,Subkultur
+Musikgruppe,Künstlergruppe (Musik)
+Künstlergruppe als Thema,Personengruppe als Thema
+Künstlergruppe als Thema,Künstlergruppen
+Künstlergruppe (Vereinigte Staaten),Kunst (Vereinigte Staaten)
+Künstlergruppe (Vereinigte Staaten),Künstlergruppe
+Rock (Musik),Musik nach Genre
+Musik,Kunst nach Gattung
+Musik (Vereinigte Staaten),Kultur (Vereinigte Staaten)
+Musik (Vereinigte Staaten),Musik nach Staat
+Musikgruppe nach Staat,Musikgruppe
+Musikgruppe nach Staat,Musik nach Staat
+Preisträger,Preisverleihungen
+Preisträger,Auszeichnungen
+Gesellschaft (Deutschland),Deutschland
+Gesellschaft (Deutschland),Gesellschaft nach Staat
+Gesellschaft (Deutschland),Gesellschaft (Europa)
+Gesellschaft (Vereinigte Staaten),Vereinigte Staaten
+Gesellschaft (Vereinigte Staaten),Gesellschaft nach Staat
+Gesellschaft (Vereinigte Staaten),Gesellschaft (Amerika)
+Musikpreis als Thema,Musikalische Veranstaltung als Thema
+Musikpreis als Thema,Auszeichnung als Thema
+Preisträger nach Staat,Preisträger
+Gesellschaft (Amerika),Gesellschaft nach Kontinent
+Gesellschaft (Amerika),Amerika
+Auszeichnung als Thema,Auszeichnungen
+Gesellschaft (Europa),Gesellschaft nach Kontinent
+Gesellschaft (Europa),Europa
+Musikalische Veranstaltung als Thema,Musik
+Musikalische Veranstaltung als Thema,Veranstaltung (Kunst und Kultur) als Thema
+Vereinigte Staaten,Staat als Thema
+Gesellschaft nach Staat,Thema nach Staat
+Gesellschaft nach Staat,Gesellschaft nach räumlicher Zuordnung
+Preisverleihungen,Veranstaltungen
+Preisverleihungen,Auszeichnungen
+Deutschland,Staat als Thema
+Kultur (Vereinigte Staaten),Vereinigte Staaten
+Kultur (Vereinigte Staaten),Kultur nach Staat
+Kultur (Vereinigte Staaten),Kultur (Nordamerika)
+Künstlergruppe,Personengruppe nach Sachgebiet
+Künstlergruppe,Künstlergruppen
+Auszeichnungen,Gesellschaft
+Kunst nach Gattung,Kunst und Kultur
+Musik nach Staat,Musik nach räumlicher Zuordnung
+Musik nach Staat,Kultur nach Staat
+Künstlergruppen,Personen (Kunst und Kultur)
+Künstlergruppen,Soziale Gruppen
+Künstlergruppe (Musik),Künstlergruppe
+Künstlergruppe (Musik),Musik
+Musik (Deutschland),Musik nach Staat
+Musik (Deutschland),Kunst (Deutschland)
+Kunst (Vereinigte Staaten),Kunst nach Staat
+Kunst (Vereinigte Staaten),Kultur (Vereinigte Staaten)
+Personengruppe als Thema,Personengruppen
+Jugend,Kindheit und Jugend
+Kunst und Kultur,Sachsystematik
+Soziale Bewegungen,Gesellschaft
+Personengruppen,Personen
+Personen (Kunst und Kultur),Personen nach Sachgebiet
+Personen (Kunst und Kultur),Kunst und Kultur
+Kunst (Deutschland),Kunst nach Staat
+Kunst (Deutschland),Kultur (Deutschland)
+Sachsystematik,!Hauptkategorie
+Musik nach räumlicher Zuordnung,Musik
+Musik nach räumlicher Zuordnung,Kultur nach räumlicher Zuordnung
+Soziale Gruppen,Organisationen (Gesellschaft)
+Soziale Gruppen,Personengruppen
+Kindheit und Jugend,Lebensstadien
+Kunst nach Staat,Kunst nach räumlicher Zuordnung
+Kunst nach Staat,Kultur nach Staat
+Kultur (Nordamerika),Kultur (Amerika)
+Kultur (Nordamerika),Nordamerika
+Veranstaltungen,Ereignisse
+Personengruppe nach Sachgebiet,Personengruppe
+Personengruppe nach Sachgebiet,Personen nach Sachgebiet
+Gesellschaft nach räumlicher Zuordnung,Räumliche Sachsystematik
+Gesellschaft nach räumlicher Zuordnung,Gesellschaft
+Gesellschaft,Sachsystematik
+Veranstaltung (Kunst und Kultur) als Thema,Veranstaltungen (Kunst und Kultur)
+Veranstaltung (Kunst und Kultur) als Thema,Veranstaltung als Thema
+Thema nach Staat,Staaten
+Thema nach Staat,Räumliche Sachsystematik
+Kultur nach Staat,Thema nach Staat
+Kultur nach Staat,Kultur nach räumlicher Zuordnung
+Gesellschaft nach Kontinent,Thema nach Kontinent
+Gesellschaft nach Kontinent,Gesellschaft nach räumlicher Zuordnung
+Europa,Kontinent als Thema
+Europa,Eurasien
+Amerika,Kontinent als Thema
+Staat als Thema,Staaten
+Veranstaltung als Thema,Veranstaltungen
+Veranstaltung als Thema,Ereignis als Thema
+Eurasien,Kontinent als Thema
+Thema nach Kontinent,Räumliche Sachsystematik
+Thema nach Kontinent,Erde
+Veranstaltungen (Kunst und Kultur),Veranstaltungen
+Veranstaltungen (Kunst und Kultur),Kunst und Kultur
+Kontinent als Thema,Erde
+Staaten,Erde
+Räumliche Sachsystematik,Sachsystematik
+Räumliche Sachsystematik,Räumliche Systematik
+Nordamerika,Amerika
+Nordamerika,Kontinent als Thema
+Personengruppe,Personengruppen
+Lebensstadien,Sachsystematik
+Ereignisse,Sachsystematik
+Kultur (Amerika),Amerika
+Kultur (Amerika),Kultur nach Kontinent
+Kunst nach räumlicher Zuordnung,Kunst und Kultur nach räumlicher Zuordnung
+Organisationen (Gesellschaft),Gesellschaft
+Organisationen (Gesellschaft),Organisationen nach Sachgebiet
+Kultur nach räumlicher Zuordnung,Kunst und Kultur nach räumlicher Zuordnung
+Kultur (Deutschland),Kultur nach Staat
+Kultur (Deutschland),Deutschland
+Kultur (Deutschland),Kultur (Europa)
+Personen nach Sachgebiet,Personen
+Personen,Sachsystematik
+Kunst und Kultur nach räumlicher Zuordnung,Räumliche Sachsystematik
+Kunst und Kultur nach räumlicher Zuordnung,Kunst und Kultur
+Organisationen nach Sachgebiet,Organisationen
+Kultur (Europa),Kultur nach Kontinent
+Kultur (Europa),Europa
+Kultur nach Kontinent,Kultur nach räumlicher Zuordnung
+Kultur nach Kontinent,Thema nach Kontinent
+Räumliche Systematik,!Hauptkategorie
+Erde,Räumliche Systematik
+Ereignis als Thema,Ereignisse
+Organisationen,Sachsystematik

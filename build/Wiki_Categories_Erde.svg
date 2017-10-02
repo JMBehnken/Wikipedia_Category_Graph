@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="218.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-112.000000 -306.000000 218.000000 492.000000" height="492.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="5.0"
+              d="M -6.255439,-126.200920 C -2.649657,-135.653305 16.937578,-144.423187 26.389952,-140.817398"
+              class="de.wikipedia.org Gesprochener Artikel" stroke-opacity="1.0"
+              stroke="#7a8bad"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -6.255439,-126.200920 C -18.157434,-128.324066 -32.825718,-149.361755 -30.702576,-161.263763"
+              class="de.wikipedia.org Lesenswert" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -6.255439,-126.200920 C -6.563908,-102.935867 -41.924191,-68.501007 -65.189240,-68.809471"
+              class="de.wikipedia.org Erde" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -6.255439,-126.200920 C 14.526085,-128.321243 48.878860,-100.329453 50.999187,-79.547928"
+              class="de.wikipedia.org Planet des Sonnensystems"
+              stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -6.255439,-126.200920 C -1.489125,-116.739609 -8.531620,-95.398178 -17.992929,-90.631859"
+              class="de.wikipedia.org Erde (Planet)" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -17.992929,-90.631859 C -6.547823,-87.664139 6.168262,-66.044914 3.200546,-54.599808"
+              class="Erde (Planet) Planet des Sonnensystems als Thema"
+              stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -17.992929,-90.631859 C -23.067715,-76.828117 -51.385498,-63.734688 -65.189240,-68.809471"
+              class="Erde (Planet) Erde" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3.200546,-54.599808 C 15.127212,-50.902069 27.470604,-27.465467 23.772867,-15.538803"
+              class="Planet des Sonnensystems als Thema Sonnensystem"
+              stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 23.772867,-15.538803 C 34.757141,-13.690140 48.460560,5.559269 46.611897,16.543545"
+              class="Sonnensystem Astronomie" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 46.611897,16.543545 C 55.813637,23.347702 59.410007,47.356552 52.605850,56.558292"
+              class="Astronomie Naturwissenschaft" stroke-opacity="1.0"
+              stroke="#63a8f4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 46.611897,16.543545 C 42.649971,25.995163 22.529655,34.229702 13.078037,30.267776"
+              class="Astronomie Weltraumforschung" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 13.078037,30.267776 C 10.305401,56.062309 -32.545353,90.595154 -58.339886,87.822517"
+              class="Weltraumforschung Forschung" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 13.078037,30.267776 C -1.401658,36.242996 -32.084026,23.486286 -38.059250,9.006592"
+              class="Weltraumforschung Weltraum" stroke-opacity="1.0"
+              stroke="#af914a"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -38.059250,9.006592 C -53.312077,8.515400 -75.454529,-15.100631 -74.963341,-30.353460"
+              class="Weltraum Räumliche Systematik" stroke-opacity="1.0"
+              stroke="#ff5c81"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -74.963341,-30.353460 C -51.494389,-22.222643 -28.487190,25.177010 -36.618008,48.645962"
+              class="Räumliche Systematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#ff5c81"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -58.339886,87.822517 C -58.309399,99.804222 -76.236206,117.822495 -88.217911,117.852982"
+              class="Forschung Wissenschaftspraxis" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -88.217911,117.852982 C -65.305954,101.614639 -6.580522,111.625061 9.657819,134.537018"
+              class="Wissenschaftspraxis Wissenschaft" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -88.217911,117.852982 C -74.089920,125.906601 -64.978363,159.179031 -73.031982,173.307022"
+              class="Wissenschaftspraxis Wissenspraxis" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -73.031982,173.307022 C -64.545517,159.285431 -30.783449,150.982773 -16.761868,159.469238"
+              class="Wissenspraxis Wissen" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -16.761868,159.469238 C -26.864895,145.775574 -21.478947,110.080551 -7.785289,99.977524"
+              class="Wissen Sachsystematik" stroke-opacity="1.0"
+              stroke="#2fc889"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -7.785289,99.977524 C -23.818146,95.477753 -41.117775,64.678818 -36.618008,48.645962"
+              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#7f93c0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 9.657819,134.537018 C 9.360326,144.807404 -6.491486,159.766724 -16.761868,159.469238"
+              class="Wissenschaft Wissen" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 52.605850,56.558292 C 49.652126,66.484169 30.332726,76.942398 20.406847,73.988670"
+              class="Naturwissenschaft Naturwissenschaft und Technik"
+              stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 52.605850,56.558292 C 78.985802,65.868240 104.590805,119.403069 95.280861,145.783020"
+              class="Naturwissenschaft Wissenschaft nach Fachgebiet"
+              stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 52.605850,56.558292 C 60.661247,62.838123 63.324589,84.340965 57.044758,92.396355"
+              class="Naturwissenschaft Umwelt und Natur" stroke-opacity="1.0"
+              stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 57.044758,92.396355 C 45.594986,106.878601 6.696954,111.427299 -7.785289,99.977524"
+              class="Umwelt und Natur Sachsystematik" stroke-opacity="1.0"
+              stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 95.280861,145.783020 C 75.907051,160.658417 24.533224,153.910828 9.657819,134.537018"
+              class="Wissenschaft nach Fachgebiet Wissenschaft"
+              stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 95.280861,145.783020 C 88.689049,164.299637 51.026417,182.186859 32.509800,175.595047"
+              class="Wissenschaft nach Fachgebiet Fachwissen"
+              stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 32.509800,175.595047 C 19.430304,182.224228 -10.132695,172.548737 -16.761868,159.469238"
+              class="Fachwissen Wissen" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 20.406847,73.988670 C 19.966190,84.824867 3.050909,100.418182 -7.785289,99.977524"
+              class="Naturwissenschaft und Technik Sachsystematik"
+              stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 50.999187,-79.547928 C 58.355751,-61.300838 42.019958,-22.895365 23.772867,-15.538803"
+              class="Planet des Sonnensystems Sonnensystem" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 50.999187,-79.547928 C 65.166443,-77.782272 83.768845,-53.882915 82.003189,-39.715660"
+              class="Planet des Sonnensystems Substellares Objekt"
+              stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 82.003189,-39.715660 C 89.768799,-31.807310 89.554695,-8.296364 81.646339,-0.530753"
+              class="Substellares Objekt Astronomisches Objekt"
+              stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 81.646339,-0.530753 C 78.054306,9.890996 57.033646,20.135574 46.611897,16.543545"
+              class="Astronomisches Objekt Astronomie" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -65.189240,-68.809471 C -59.452858,-59.163452 -65.317322,-36.089844 -74.963341,-30.353460"
+              class="Erde Räumliche Systematik" stroke-opacity="1.0"
+              stroke="#e271b5"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -30.702576,-161.263763 C -42.960369,-165.842911 -54.478340,-191.098312 -49.899197,-203.356110"
+              class="Lesenswert Bewertete Seite" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -49.899197,-203.356110 C -59.896999,-202.970734 -75.471786,-217.389359 -75.857162,-227.387161"
+              class="Bewertete Seite Bewertung" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -75.857162,-227.387161 C -77.671684,-241.638901 -59.015846,-265.738281 -44.764099,-267.552826"
+              class="Bewertung Wartung" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -75.857162,-227.387161 C -85.518059,-227.694550 -99.548309,-242.647003 -99.240913,-252.307892"
+              class="Bewertung Autorenportal" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -99.240913,-252.307892 C -108.194305,-260.508575 -109.323364,-286.239685 -101.122688,-295.193054"
+              class="Autorenportal Gemeinschaft" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -92.848724,60.132092 C -83.899811,46.588722 -50.161377,39.697044 -36.618008,48.645962"
+              class="!Wikipedia !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#ff5c81"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 26.389952,-140.817398 C 23.336418,-150.400726 33.131111,-169.356018 42.714439,-172.409561"
+              class="Gesprochener Artikel Gesprochene Wikipedia"
+              stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 42.714439,-172.409561 C 41.968246,-182.911560 56.601959,-199.783859 67.103966,-200.530060"
+              class="Gesprochene Wikipedia Publikationen" stroke-opacity="1.0"
+              stroke="#2e9072"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 67.103966,-200.530060 C 65.835670,-211.831940 80.886063,-230.687210 92.187943,-231.955490"
+              class="Publikationen %C3%9Cber Wikipedia" stroke-opacity="1.0"
+              stroke="#2e9072"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="-6.255439"
+                class="de.wikipedia.org" cy="-126.20092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="26.389952"
+                class="Gesprochener Artikel" cy="-140.8174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-30.702576"
+                class="Lesenswert" cy="-161.26376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="-65.18924"
+                class="Erde" cy="-68.80947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="50.999187"
+                class="Planet des Sonnensystems" cy="-79.54793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="-17.99293"
+                class="Erde (Planet)" cy="-90.63186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="3.2005463"
+                class="Planet des Sonnensystems als Thema" cy="-54.599808"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="23.772867"
+                class="Sonnensystem" cy="-15.538803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="46.611897"
+                class="Astronomie" cy="16.543545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="52.60585"
+                class="Naturwissenschaft" cy="56.558292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="13.078037"
+                class="Weltraumforschung" cy="30.267776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="-58.339886"
+                class="Forschung" cy="87.82252" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-38.05925"
+                class="Weltraum" cy="9.006592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-74.96334"
+                class="Räumliche Systematik" cy="-30.35346" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-36.618008"
+                class="!Hauptkategorie" cy="48.64596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="-88.21791"
+                class="Wissenschaftspraxis" cy="117.85298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="9.657819"
+                class="Wissenschaft" cy="134.53702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="-73.03198"
+                class="Wissenspraxis" cy="173.30702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="-16.761868"
+                class="Wissen" cy="159.46924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="-7.785289"
+                class="Sachsystematik" cy="99.97752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="20.406847"
+                class="Naturwissenschaft und Technik" cy="73.98867"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="95.28086"
+                class="Wissenschaft nach Fachgebiet" cy="145.78302"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="57.044758"
+                class="Umwelt und Natur" cy="92.396355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="32.5098"
+                class="Fachwissen" cy="175.59505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="82.00319"
+                class="Substellares Objekt" cy="-39.71566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.0" cx="81.64634"
+                class="Astronomisches Objekt" cy="-0.53075266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-49.899197"
+                class="Bewertete Seite" cy="-203.35611" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-75.85716"
+                class="Bewertung" cy="-227.38716" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-44.7641"
+                class="Wartung" cy="-267.55283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-99.24091"
+                class="Autorenportal" cy="-252.30789" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-101.12269"
+                class="Gemeinschaft" cy="-295.19305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-92.848724"
+                class="!Wikipedia" cy="60.13209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="42.71444"
+                class="Gesprochene Wikipedia" cy="-172.40956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="67.103966"
+                class="Publikationen" cy="-200.53006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="92.18794"
+                class="%C3%9Cber Wikipedia" cy="-231.95549" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="8" x="-6.255439" y="-124.26537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="de.wikipedia.org">
+            de.wikipedia.org
+        </text>
+        <text font-size="8" x="26.389952" y="-138.88185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesprochener Artikel">
+            Gesprochener Artikel
+        </text>
+        <text font-size="8" x="-30.702576" y="-159.7768" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lesenswert">
+            Lesenswert
+        </text>
+        <text font-size="8" x="-65.18924" y="-67.26129" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Erde">
+            Erde
+        </text>
+        <text font-size="8" x="50.999187" y="-77.61238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Planet des Sonnensystems">
+            Planet des Sonnensystems
+        </text>
+        <text font-size="8" x="-17.99293" y="-88.848656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Erde (Planet)">
+            Erde (Planet)
+        </text>
+        <text font-size="8" x="3.2005463" y="-52.66426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Planet des Sonnensystems als Thema">
+            Planet des Sonnensystems als Thema
+        </text>
+        <text font-size="8" x="23.772867" y="-13.638412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sonnensystem">
+            Sonnensystem
+        </text>
+        <text font-size="8" x="46.611897" y="18.091722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Astronomie">
+            Astronomie
+        </text>
+        <text font-size="8" x="52.60585" y="58.10647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Naturwissenschaft">
+            Naturwissenschaft
+        </text>
+        <text font-size="8" x="13.078037" y="32.203323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Weltraumforschung">
+            Weltraumforschung
+        </text>
+        <text font-size="8" x="-58.339886" y="89.758064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Forschung">
+            Forschung
+        </text>
+        <text font-size="8" x="-38.05925" y="10.554769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Weltraum">
+            Weltraum
+        </text>
+        <text font-size="8" x="-74.96334" y="-28.417913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Räumliche Systematik">
+            Räumliche Systematik
+        </text>
+        <text font-size="8" x="-36.618008" y="50.58151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Hauptkategorie">
+            !Hauptkategorie
+        </text>
+        <text font-size="8" x="-88.21791" y="119.78853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenschaftspraxis">
+            Wissenschaftspraxis
+        </text>
+        <text font-size="8" x="9.657819" y="136.08519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenschaft">
+            Wissenschaft
+        </text>
+        <text font-size="8" x="-73.03198" y="175.24257" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenspraxis">
+            Wissenspraxis
+        </text>
+        <text font-size="8" x="-16.761868" y="161.01741" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissen">
+            Wissen
+        </text>
+        <text font-size="8" x="-7.785289" y="101.91307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sachsystematik">
+            Sachsystematik
+        </text>
+        <text font-size="8" x="20.406847" y="75.53685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Naturwissenschaft und Technik">
+            Naturwissenschaft und Technik
+        </text>
+        <text font-size="8" x="95.28086" y="147.71857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wissenschaft nach Fachgebiet">
+            Wissenschaft nach Fachgebiet
+        </text>
+        <text font-size="8" x="57.044758" y="93.944534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Umwelt und Natur">
+            Umwelt und Natur
+        </text>
+        <text font-size="8" x="32.5098" y="177.14322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Fachwissen">
+            Fachwissen
+        </text>
+        <text font-size="8" x="82.00319" y="-37.780113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Substellares Objekt">
+            Substellares Objekt
+        </text>
+        <text font-size="8" x="81.64634" y="1.4047942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Astronomisches Objekt">
+            Astronomisches Objekt
+        </text>
+        <text font-size="8" x="-49.899197" y="-201.80794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bewertete Seite">
+            Bewertete Seite
+        </text>
+        <text font-size="8" x="-75.85716" y="-225.51282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bewertung">
+            Bewertung
+        </text>
+        <text font-size="8" x="-44.7641" y="-265.67847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wartung">
+            Wartung
+        </text>
+        <text font-size="8" x="-99.24091" y="-250.37234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Autorenportal">
+            Autorenportal
+        </text>
+        <text font-size="8" x="-101.12269" y="-293.64487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gemeinschaft">
+            Gemeinschaft
+        </text>
+        <text font-size="8" x="-92.848724" y="62.06764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Wikipedia">
+            !Wikipedia
+        </text>
+        <text font-size="8" x="42.71444" y="-170.47401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesprochene Wikipedia">
+            Gesprochene Wikipedia
+        </text>
+        <text font-size="8" x="67.103966" y="-198.98189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Publikationen">
+            Publikationen
+        </text>
+        <text font-size="8" x="92.18794" y="-230.01994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="%C3%9Cber Wikipedia">
+            %C3%9Cber Wikipedia
+        </text>
+    </g>
+</svg>
