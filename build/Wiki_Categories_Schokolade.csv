@@ -1,42 +1,27 @@
 Source,Target
-de.wikipedia.org,Lesenswert
-de.wikipedia.org,Schokolade als Thema
+Schokolade,Lesenswert
+Schokolade,Schokolade als Thema
+Lesenswert,Bewertete Seite
 Schokolade als Thema,Süßware als Thema
 Schokolade als Thema,Kakao als Thema
+Bewertete Seite,Bewertung
 Kakao als Thema,Lebensmittel als Thema
 Kakao als Thema,Genussmittel
-Genussmittel,Lebensmittel als Thema
-Lebensmittel als Thema,Essen und Trinken
-Essen und Trinken,Alltagskultur
-Essen und Trinken,Handlung und Verhalten
-Handlung und Verhalten,Anthropologie
-Anthropologie,Sozialwissenschaft
-Anthropologie,Kulturwissenschaft
-Anthropologie,Humanwissenschaften
-Humanwissenschaften,Wissenschaft nach Fachgebiet
-Wissenschaft nach Fachgebiet,Wissenschaft
-Wissenschaft nach Fachgebiet,Fachwissen
-Fachwissen,Wissen
-Wissen,Sachsystematik
-Sachsystematik,!Hauptkategorie
-Wissenschaft,Wissen
-Kulturwissenschaft,Kulturwissenschaften
-Kulturwissenschaften,Geisteswissenschaft
-Kulturwissenschaften,Kunst und Kultur
-Kunst und Kultur,Sachsystematik
-Geisteswissenschaft,Wissenschaft nach Fachgebiet
-Sozialwissenschaft,Wissenschaft nach Fachgebiet
-Sozialwissenschaft,Gesellschaft
-Gesellschaft,Sachsystematik
-Alltagskultur,Kunst und Kultur
-Alltagskultur,Gesellschaft
 Süßware als Thema,Lebensmittel als Thema
-Lesenswert,Bewertete Seite
-Bewertete Seite,Bewertung
+Genussmittel,Lebensmittel als Thema
 Bewertung,Wartung
 Bewertung,Autorenportal
+Lebensmittel als Thema,Essen und Trinken
 Autorenportal,Gemeinschaft
-Gemeinschaft,
-,!Wikipedia
-!Wikipedia,!Hauptkategorie
+Essen und Trinken,Alltagskultur
+Essen und Trinken,Handlung und Verhalten
 Wartung,
+Alltagskultur,Kunst und Kultur
+Alltagskultur,Gesellschaft
+,!Wikipedia
+Gemeinschaft,
+Handlung und Verhalten,Gesellschaft
+!Wikipedia,!Hauptkategorie
+Kunst und Kultur,Sachsystematik
+Gesellschaft,Sachsystematik
+Sachsystematik,!Hauptkategorie

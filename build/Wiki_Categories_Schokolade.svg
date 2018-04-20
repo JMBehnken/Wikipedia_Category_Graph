@@ -1,405 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="316.0"
+<svg contentScriptType="text/ecmascript" width="954.0"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-134.000000 -379.000000 316.000000 521.000000" height="521.0"
+     viewBox="-591.000000 -943.000000 954.000000 1438.000000" height="1438.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
-        <path fill="none" stroke-width="5.0"
-              d="M 95.586906,-209.445358 C 92.294693,-219.163254 101.933212,-238.678391 111.651100,-241.970596"
-              class="de.wikipedia.org Lesenswert" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 95.586906,-209.445358 C 99.242538,-199.845993 90.326935,-179.963470 80.727562,-176.307831"
-              class="de.wikipedia.org Schokolade als Thema" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 80.727562,-176.307831 C 77.909813,-166.649384 59.195530,-156.388367 49.537094,-159.206116"
-              class="Schokolade als Thema Süßware als Thema"
-              stroke-opacity="1.0" stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 80.727562,-176.307831 C 88.902130,-171.213394 93.522339,-151.309906 88.427910,-143.135330"
-              class="Schokolade als Thema Kakao als Thema" stroke-opacity="1.0"
-              stroke="#b29b6c"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 88.427910,-143.135330 C 86.414009,-123.057434 53.276310,-95.961441 33.198414,-97.975342"
-              class="Kakao als Thema Lebensmittel als Thema"
-              stroke-opacity="1.0" stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 88.427910,-143.135330 C 92.392990,-134.216125 84.961807,-114.889694 76.042595,-110.924614"
-              class="Kakao als Thema Genussmittel" stroke-opacity="1.0"
-              stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 76.042595,-110.924614 C 70.063606,-99.765930 44.357105,-91.996353 33.198414,-97.975342"
-              class="Genussmittel Lebensmittel als Thema" stroke-opacity="1.0"
-              stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 33.198414,-97.975342 C 41.817436,-91.680847 45.304230,-69.310562 39.009731,-60.691540"
-              class="Lebensmittel als Thema Essen und Trinken"
-              stroke-opacity="1.0" stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 39.009731,-60.691540 C 49.520618,-49.008701 47.762699,-15.718113 36.079861,-5.207222"
-              class="Essen und Trinken Alltagskultur" stroke-opacity="1.0"
-              stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 39.009731,-60.691540 C 30.909092,-46.966892 -1.828841,-38.530876 -15.553491,-46.631516"
-              class="Essen und Trinken Handlung und Verhalten"
-              stroke-opacity="1.0" stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -15.553491,-46.631516 C -19.460562,-29.008642 -51.755470,-8.434938 -69.378342,-12.342009"
-              class="Handlung und Verhalten Anthropologie" stroke-opacity="1.0"
-              stroke="#46c07f"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -69.378342,-12.342009 C -63.068722,-2.742825 -68.003052,21.120384 -77.602242,27.430010"
-              class="Anthropologie Sozialwissenschaft" stroke-opacity="1.0"
-              stroke="#46c07f"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -69.378342,-12.342009 C -59.730961,-27.521439 -22.490746,-35.819511 -7.311316,-26.172132"
-              class="Anthropologie Kulturwissenschaft" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -69.378342,-12.342009 C -74.885178,-1.242357 -99.794907,7.146867 -110.894562,1.640031"
-              class="Anthropologie Humanwissenschaften" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -110.894562,1.640031 C -103.012207,14.378036 -110.295685,45.308571 -123.033691,53.190922"
-              class="Humanwissenschaften Wissenschaft nach Fachgebiet"
-              stroke-opacity="1.0" stroke="#7f9ba2"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -123.033691,53.190922 C -105.987709,57.138401 -86.339958,88.628586 -90.287430,105.674568"
-              class="Wissenschaft nach Fachgebiet Wissenschaft"
-              stroke-opacity="1.0" stroke="#ff7045"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -123.033691,53.190922 C -102.913651,49.006840 -66.457443,72.910789 -62.273369,93.030838"
-              class="Wissenschaft nach Fachgebiet Fachwissen"
-              stroke-opacity="1.0" stroke="#ff7045"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -62.273369,93.030838 C -47.858791,88.363586 -19.236053,102.984581 -14.568804,117.399162"
-              class="Fachwissen Wissen" stroke-opacity="1.0" stroke="#ff7045"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -14.568804,117.399162 C -10.992122,99.260468 21.580933,77.417465 39.719620,80.994148"
-              class="Wissen Sachsystematik" stroke-opacity="1.0"
-              stroke="#91835a"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 39.719620,80.994148 C 44.850342,84.538788 47.229462,97.551834 43.684822,102.682549"
-              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
-              stroke="#23966f"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -90.287430,105.674568 C -72.798790,92.875763 -27.367609,99.910522 -14.568804,117.399162"
-              class="Wissenschaft Wissen" stroke-opacity="1.0" stroke="#ff7045"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -7.311316,-26.172132 C 7.595734,-24.753534 27.828411,-0.265066 26.409815,14.641984"
-              class="Kulturwissenschaft Kulturwissenschaften"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 26.409815,14.641984 C 27.813023,34.222054 0.547737,65.696976 -19.032331,67.100182"
-              class="Kulturwissenschaften Geisteswissenschaft"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 26.409815,14.641984 C 40.236336,5.930791 74.042908,13.603784 82.754105,27.430307"
-              class="Kulturwissenschaften Kunst und Kultur" stroke-opacity="1.0"
-              stroke="#11aeb7"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 82.754105,27.430307 C 84.859978,46.749969 59.039284,78.888275 39.719620,80.994148"
-              class="Kunst und Kultur Sachsystematik" stroke-opacity="1.0"
-              stroke="#23966f"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -19.032331,67.100182 C -42.614456,85.118599 -105.015274,76.773048 -123.033691,53.190922"
-              class="Geisteswissenschaft Wissenschaft nach Fachgebiet"
-              stroke-opacity="1.0" stroke="#7f9ba2"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -77.602242,27.430010 C -81.536346,41.668480 -108.795219,57.125031 -123.033691,53.190922"
-              class="Sozialwissenschaft Wissenschaft nach Fachgebiet"
-              stroke-opacity="1.0" stroke="#c59422"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -77.602242,27.430010 C -53.183865,8.125349 12.400681,15.795921 31.705341,40.214298"
-              class="Sozialwissenschaft Gesellschaft" stroke-opacity="1.0"
-              stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 31.705341,40.214298 C 41.464169,46.767414 46.272736,71.235321 39.719620,80.994148"
-              class="Gesellschaft Sachsystematik" stroke-opacity="1.0"
-              stroke="#57a737"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 36.079861,-5.207222 C 51.942215,-8.014566 79.946762,11.567952 82.754105,27.430307"
-              class="Alltagskultur Kunst und Kultur" stroke-opacity="1.0"
-              stroke="#57a737"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 36.079861,-5.207222 C 44.289261,4.751987 41.664551,32.004898 31.705341,40.214298"
-              class="Alltagskultur Gesellschaft" stroke-opacity="1.0"
-              stroke="#8cb900"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 49.537094,-159.206116 C 58.515514,-143.692230 48.712303,-106.953758 33.198414,-97.975342"
-              class="Süßware als Thema Lebensmittel als Thema"
-              stroke-opacity="1.0" stroke="#b29b6c"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 111.651100,-241.970596 C 105.404579,-251.603806 110.484627,-275.423401 120.117836,-281.669922"
+        <path fill="none" stroke-width="1.0"
+              d="M 45.663383,-52.809082 C 85.965958,-44.713547 134.276505,27.883602 126.180977,68.186172"
+              class="Schokolade Lesenswert" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.663383,-52.809082 C 3.690266,-61.126389 -46.793453,-136.562012 -38.476147,-178.535141"
+              class="Schokolade Schokolade als Thema" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 126.180977,68.186172 C 164.561676,76.040306 210.351517,145.392578 202.497375,183.773270"
               class="Lesenswert Bewertete Seite" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 120.117836,-281.669922 C 123.659279,-290.747253 142.587402,-299.051056 151.664719,-295.509613"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -38.476147,-178.535141 C -70.350151,-177.868317 -119.161415,-224.679062 -119.828247,-256.553070"
+              class="Schokolade als Thema Süßware als Thema"
+              stroke-opacity="1.0" stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -38.476147,-178.535141 C -70.175644,-192.108765 -97.364449,-260.018463 -83.790817,-291.717957"
+              class="Schokolade als Thema Kakao als Thema" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 202.497375,183.773270 C 239.297836,191.514191 282.887146,258.326263 275.146240,295.126740"
               class="Bewertete Seite Bewertung" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 151.664719,-295.509613 C 139.010910,-292.834778 116.017929,-307.803223 113.343086,-320.457062"
-              class="Bewertung Wartung" stroke-opacity="1.0" stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 151.664719,-295.509613 C 146.131226,-305.905518 153.424835,-329.799561 163.820724,-335.333038"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.790817,-291.717957 C -116.516167,-291.388031 -166.099091,-339.981140 -166.429016,-372.706512"
+              class="Kakao als Thema Lebensmittel als Thema"
+              stroke-opacity="1.0" stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.790817,-291.717957 C -99.895744,-303.461914 -106.437149,-345.235291 -94.693169,-361.340210"
+              class="Kakao als Thema Genussmittel" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -119.828247,-256.553070 C -152.379089,-270.463593 -180.339539,-340.155670 -166.429016,-372.706512"
+              class="Süßware als Thema Lebensmittel als Thema"
+              stroke-opacity="1.0" stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -94.693169,-361.340210 C -111.313599,-349.266296 -154.355103,-356.086090 -166.429016,-372.706512"
+              class="Genussmittel Lebensmittel als Thema" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.146240,295.126740 C 293.493164,282.531952 339.905731,291.160156 352.500519,309.507080"
+              class="Bewertung Wartung" stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 275.146240,295.126740 C 303.470062,309.549072 324.322357,373.668335 309.900024,401.992157"
               class="Bewertung Autorenportal" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 163.820724,-335.333038 C 158.822052,-343.568878 163.677795,-363.420593 171.913620,-368.419250"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -166.429016,-372.706512 C -213.777985,-379.134399 -275.159607,-459.799652 -268.731720,-507.148621"
+              class="Lebensmittel als Thema Essen und Trinken"
+              stroke-opacity="1.0" stroke="#61a4a7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 309.900024,401.992157 C 332.907715,412.013641 352.387085,461.557434 342.365601,484.565125"
               class="Autorenportal Gemeinschaft" stroke-opacity="1.0"
-              stroke="#d97dd8"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 49.415718,131.361496 C 42.533749,126.771889 39.095211,109.564514 43.684822,102.682549"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.731720,-507.148621 C -306.048798,-517.695923 -346.203461,-589.492493 -335.656158,-626.809570"
+              class="Essen und Trinken Alltagskultur" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.731720,-507.148621 C -297.884277,-502.718628 -348.258118,-539.802551 -352.688080,-568.955078"
+              class="Essen und Trinken Handlung und Verhalten"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -335.656158,-626.809570 C -365.668030,-634.671204 -398.893372,-691.481567 -391.031708,-721.493469"
+              class="Alltagskultur Kunst und Kultur" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -335.656158,-626.809570 C -356.880219,-619.169739 -400.176117,-639.545959 -407.816010,-660.770020"
+              class="Alltagskultur Gesellschaft" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -352.688080,-568.955078 C -382.076630,-576.292480 -415.153412,-631.381470 -407.816010,-660.770020"
+              class="Handlung und Verhalten Gesellschaft" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -580.768433,-932.010010 C -555.934692,-927.732666 -525.100220,-884.066040 -529.377563,-859.232300"
               class="!Wikipedia !Hauptkategorie" stroke-opacity="1.0"
-              stroke="#23966f"/>
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.031708,-721.493469 C -413.942108,-716.007141 -456.537231,-742.143311 -462.023560,-765.053711"
+              class="Kunst und Kultur Sachsystematik" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -407.816010,-660.770020 C -439.514282,-670.785278 -472.038788,-733.355469 -462.023560,-765.053711"
+              class="Gesellschaft Sachsystematik" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -462.023560,-765.053711 C -494.330078,-770.418579 -534.742432,-826.925781 -529.377563,-859.232300"
+              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
     </g>
     <g id="nodes">
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="95.58691"
-                class="de.wikipedia.org" cy="-209.44536" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="45.663383"
+                class="Schokolade" cy="-52.809082" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="111.6511"
-                class="Lesenswert" cy="-241.9706" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="126.18098"
+                class="Lesenswert" cy="68.18617" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="80.72756"
-                class="Schokolade als Thema" cy="-176.30783" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="-38.476147"
+                class="Schokolade als Thema" cy="-178.53514" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="49.537094"
-                class="Süßware als Thema" cy="-159.20612" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="202.49738"
+                class="Bewertete Seite" cy="183.77327" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="88.42791"
-                class="Kakao als Thema" cy="-143.13533" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="-119.82825"
+                class="Süßware als Thema" cy="-256.55307" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="33.198414"
-                class="Lebensmittel als Thema" cy="-97.97534" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="-83.79082"
+                class="Kakao als Thema" cy="-291.71796" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="76.042595"
-                class="Genussmittel" cy="-110.924614" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="275.14624"
+                class="Bewertung" cy="295.12674" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="39.00973"
-                class="Essen und Trinken" cy="-60.69154" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="-166.42902"
+                class="Lebensmittel als Thema" cy="-372.7065" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="36.07986"
-                class="Alltagskultur" cy="-5.2072225" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="-94.69317"
+                class="Genussmittel" cy="-361.3402" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="-15.553491"
-                class="Handlung und Verhalten" cy="-46.631516" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="352.50052"
+                class="Wartung" cy="309.50708" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-69.37834"
-                class="Anthropologie" cy="-12.342009" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="309.90002"
+                class="Autorenportal" cy="401.99216" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="-77.60224"
-                class="Sozialwissenschaft" cy="27.43001" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-268.73172"
+                class="Essen und Trinken" cy="-507.14862" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-7.3113155"
-                class="Kulturwissenschaft" cy="-26.172132" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="342.3656"
+                class="Gemeinschaft" cy="484.56512" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-110.89456"
-                class="Humanwissenschaften" cy="1.6400306" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-335.65616"
+                class="Alltagskultur" cy="-626.8096" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-123.03369"
-                class="Wissenschaft nach Fachgebiet" cy="53.19092"
-                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-90.28743"
-                class="Wissenschaft" cy="105.67457" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-352.68808"
+                class="Handlung und Verhalten" cy="-568.9551" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-62.27337"
-                class="Fachwissen" cy="93.03084" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-391.0317"
+                class="Kunst und Kultur" cy="-721.49347" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-14.568804"
-                class="Wissen" cy="117.39916" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-407.816"
+                class="Gesellschaft" cy="-660.77" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="39.71962"
-                class="Sachsystematik" cy="80.99415" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-580.76843"
+                class="!Wikipedia" cy="-932.01" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="43.684822"
-                class="!Hauptkategorie" cy="102.68255" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-529.37756"
+                class="!Hauptkategorie" cy="-859.2323" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="26.409815"
-                class="Kulturwissenschaften" cy="14.641984" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-19.032331"
-                class="Geisteswissenschaft" cy="67.10018" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="82.754105"
-                class="Kunst und Kultur" cy="27.430307" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#8cb900" r="10.0" cx="31.705341"
-                class="Gesellschaft" cy="40.2143" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="120.117836"
-                class="Bewertete Seite" cy="-281.66992" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="151.66472"
-                class="Bewertung" cy="-295.5096" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="113.34309"
-                class="Wartung" cy="-320.45706" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="163.82072"
-                class="Autorenportal" cy="-335.33304" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="171.91362"
-                class="Gemeinschaft" cy="-368.41925" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="49.415718"
-                class="!Wikipedia" cy="131.3615" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-462.02356"
+                class="Sachsystematik" cy="-765.0537" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
     </g>
     <g id="node-labels">
-        <text font-size="10" x="95.58691" y="-207.02592" fill="#000000"
+        <text font-size="24" x="45.663383" y="-48.16455" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="de.wikipedia.org">
-            de.wikipedia.org
+              font-family="Dialog" class="Schokolade">
+            Schokolade
         </text>
-        <text font-size="10" x="111.6511" y="-240.11188" fill="#000000"
+        <text font-size="24" x="126.18098" y="72.64711" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Lesenswert">
             Lesenswert
         </text>
-        <text font-size="10" x="80.72756" y="-174.3726" fill="#000000"
+        <text font-size="24" x="-38.476147" y="-173.89061" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Schokolade als Thema">
             Schokolade als Thema
         </text>
-        <text font-size="10" x="49.537094" y="-157.27089" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Süßware als Thema">
-            Süßware als Thema
-        </text>
-        <text font-size="10" x="88.42791" y="-141.2001" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kakao als Thema">
-            Kakao als Thema
-        </text>
-        <text font-size="10" x="33.198414" y="-96.04012" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Lebensmittel als Thema">
-            Lebensmittel als Thema
-        </text>
-        <text font-size="10" x="76.042595" y="-108.989395" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Genussmittel">
-            Genussmittel
-        </text>
-        <text font-size="10" x="39.00973" y="-58.756317" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Essen und Trinken">
-            Essen und Trinken
-        </text>
-        <text font-size="10" x="36.07986" y="-2.7877889" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Alltagskultur">
-            Alltagskultur
-        </text>
-        <text font-size="10" x="-15.553491" y="-44.212082" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Handlung und Verhalten">
-            Handlung und Verhalten
-        </text>
-        <text font-size="10" x="-69.37834" y="-9.922575" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Anthropologie">
-            Anthropologie
-        </text>
-        <text font-size="10" x="-77.60224" y="29.36523" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Sozialwissenschaft">
-            Sozialwissenschaft
-        </text>
-        <text font-size="10" x="-7.3113155" y="-24.236912" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kulturwissenschaft">
-            Kulturwissenschaft
-        </text>
-        <text font-size="10" x="-110.89456" y="3.575252" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Humanwissenschaften">
-            Humanwissenschaften
-        </text>
-        <text font-size="10" x="-123.03369" y="55.610355" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Wissenschaft nach Fachgebiet">
-            Wissenschaft nach Fachgebiet
-        </text>
-        <text font-size="10" x="-90.28743" y="107.60979" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Wissenschaft">
-            Wissenschaft
-        </text>
-        <text font-size="10" x="-62.27337" y="94.96606" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Fachwissen">
-            Fachwissen
-        </text>
-        <text font-size="10" x="-14.568804" y="119.33438" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Wissen">
-            Wissen
-        </text>
-        <text font-size="10" x="39.71962" y="83.41358" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Sachsystematik">
-            Sachsystematik
-        </text>
-        <text font-size="10" x="43.684822" y="105.10198" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="!Hauptkategorie">
-            !Hauptkategorie
-        </text>
-        <text font-size="10" x="26.409815" y="16.577206" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kulturwissenschaften">
-            Kulturwissenschaften
-        </text>
-        <text font-size="10" x="-19.032331" y="69.0354" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Geisteswissenschaft">
-            Geisteswissenschaft
-        </text>
-        <text font-size="10" x="82.754105" y="29.365528" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kunst und Kultur">
-            Kunst und Kultur
-        </text>
-        <text font-size="10" x="31.705341" y="42.14952" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Gesellschaft">
-            Gesellschaft
-        </text>
-        <text font-size="10" x="120.117836" y="-279.7347" fill="#000000"
+        <text font-size="24" x="202.49738" y="188.4178" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Bewertete Seite">
             Bewertete Seite
         </text>
-        <text font-size="10" x="151.66472" y="-293.1667" fill="#000000"
+        <text font-size="24" x="-119.82825" y="-251.90854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Süßware als Thema">
+            Süßware als Thema
+        </text>
+        <text font-size="24" x="-83.79082" y="-287.07343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kakao als Thema">
+            Kakao als Thema
+        </text>
+        <text font-size="24" x="275.14624" y="300.7498" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Bewertung">
             Bewertung
         </text>
-        <text font-size="10" x="113.34309" y="-318.11414" fill="#000000"
+        <text font-size="24" x="-166.42902" y="-368.06198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lebensmittel als Thema">
+            Lebensmittel als Thema
+        </text>
+        <text font-size="24" x="-94.69317" y="-356.69568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Genussmittel">
+            Genussmittel
+        </text>
+        <text font-size="24" x="352.50052" y="315.13013" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Wartung">
             Wartung
         </text>
-        <text font-size="10" x="163.82072" y="-332.9136" fill="#000000"
+        <text font-size="24" x="309.90002" y="407.7988" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Autorenportal">
             Autorenportal
         </text>
-        <text font-size="10" x="171.91362" y="-366.48404" fill="#000000"
+        <text font-size="24" x="-268.73172" y="-502.5041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Essen und Trinken">
+            Essen und Trinken
+        </text>
+        <text font-size="24" x="342.3656" y="489.20966" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gemeinschaft">
             Gemeinschaft
         </text>
-        <text font-size="10" x="49.415718" y="133.78093" fill="#000000"
+        <text font-size="24" x="-335.65616" y="-621.0029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Alltagskultur">
+            Alltagskultur
+        </text>
+        <text font-size="24" x="-352.68808" y="-563.14844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Handlung und Verhalten">
+            Handlung und Verhalten
+        </text>
+        <text font-size="24" x="-391.0317" y="-716.84894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kunst und Kultur">
+            Kunst und Kultur
+        </text>
+        <text font-size="24" x="-407.816" y="-656.1255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesellschaft">
+            Gesellschaft
+        </text>
+        <text font-size="24" x="-580.76843" y="-926.20337" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="!Wikipedia">
             !Wikipedia
+        </text>
+        <text font-size="24" x="-529.37756" y="-853.42566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Hauptkategorie">
+            !Hauptkategorie
+        </text>
+        <text font-size="24" x="-462.02356" y="-759.2471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sachsystematik">
+            Sachsystematik
         </text>
     </g>
 </svg>

@@ -1,1566 +1,1570 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="740.0"
+<svg contentScriptType="text/ecmascript" width="1789.7152"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-337.000000 -309.000000 740.000000 626.000000" height="626.0"
+     viewBox="-1084.000000 -704.000000 1789.715210 1509.000000" height="1509.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -53.968102,188.191589 -42.387169,236.446304 -54.611763,256.391510"
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 274.429504,-469.649139 380.327728,-562.970093 446.734100,-558.777649"
               class="de.wikipedia.org Alternative-Rock-Band"
-              stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -51.647556,159.647720 6.229986,168.567459 22.549259,190.833206"
+              stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 232.500153,-328.083191 63.155388,-271.949219 -12.004190,-309.686127"
               class="de.wikipedia.org Echo-Pop-Preisträger" stroke-opacity="1.0"
-              stroke="#b1ab02"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -61.839012,145.888229 1.390585,118.881531 31.469351,130.955841"
-              class="de.wikipedia.org Grammy-Preisträger" stroke-opacity="1.0"
-              stroke="#b1ab02"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -94.508255,166.592957 -111.339622,121.639481 -101.965584,101.044540"
-              class="de.wikipedia.org Green Day" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -111.499725,178.105011 -171.086349,124.932434 -173.224365,87.346024"
-              class="de.wikipedia.org Punkband" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -54.992142,198.575027 -60.522423,260.868805 -83.130455,279.790009"
-              class="de.wikipedia.org US-amerikanische Band"
-              stroke-opacity="1.0" stroke="#7dac7f"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -73.913315,175.966995 C -64.371719,188.564026 -68.954865,221.771957 -81.551895,231.313568"
-              class="de.wikipedia.org Pop-Punk-Band" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -81.551895,231.313568 C -105.674973,239.179962 -153.659210,214.794968 -161.525604,190.671890"
-              class="Pop-Punk-Band Popband" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -81.551895,231.313568 C -128.679901,220.854553 -183.683380,134.474030 -173.224365,87.346024"
-              class="Pop-Punk-Band Punkband" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -173.224365,87.346024 C -181.009583,100.811249 -212.885254,109.331245 -226.350464,101.546028"
-              class="Punkband Punk" stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -173.224365,87.346024 C -152.537384,129.050781 -184.064056,222.638397 -225.768829,243.325378"
-              class="Punkband Musikgruppe nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -225.768829,243.325378 C -242.828873,219.537430 -232.736984,158.265427 -208.949036,141.205383"
-              class="Musikgruppe nach Genre Musik nach Genre"
-              stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -225.768829,243.325378 C -220.879547,194.513855 -140.328354,128.630463 -91.516823,133.519730"
-              class="Musikgruppe nach Genre Musikgruppe" stroke-opacity="1.0"
-              stroke="#bd7e34"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -91.516823,133.519730 C -99.259949,149.911133 -135.461746,162.883575 -151.853149,155.140457"
-              class="Musikgruppe Künstlergruppe (Musik)" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -151.853149,155.140457 C -183.158768,144.335449 -213.909653,81.169510 -203.104645,49.863899"
-              class="Künstlergruppe (Musik) Künstlergruppe" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -151.853149,155.140457 C -168.179092,136.323669 -164.442856,83.609604 -145.626068,67.283661"
-              class="Künstlergruppe (Musik) Musik" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -145.626068,67.283661 C -128.913773,47.029926 -73.464706,41.717777 -53.210972,58.430084"
-              class="Musik Kunst nach Gattung" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -53.210972,58.430084 C -65.086021,42.073307 -58.363419,-0.274430 -42.006645,-12.149476"
-              class="Kunst nach Gattung Kunst und Kultur" stroke-opacity="1.0"
-              stroke="#408d77"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -42.006645,-12.149476 C -79.958054,-46.652344 -85.130859,-155.333740 -50.627991,-193.285156"
-              class="Kunst und Kultur Sachsystematik" stroke-opacity="1.0"
-              stroke="#7f8686"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -50.627991,-193.285156 C -50.145573,-224.009369 -3.335635,-269.372040 27.388569,-268.889618"
-              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
-              stroke="#f074c2"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -203.104645,49.863899 C -222.246964,42.808926 -240.378006,3.512976 -233.323029,-15.629354"
-              class="Künstlergruppe Personengruppe nach Sachgebiet"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -203.104645,49.863899 C -195.503632,22.925327 -143.694244,-6.081005 -116.755669,1.520011"
-              class="Künstlergruppe Künstlergruppen" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -116.755669,1.520011 C -165.465012,25.423363 -274.384094,-11.785629 -298.287415,-60.494980"
-              class="Künstlergruppen Personen (Kunst und Kultur)"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -116.755669,1.520011 C -168.543884,-24.628506 -207.003418,-141.533585 -180.854889,-193.321793"
-              class="Künstlergruppen Soziale Gruppen" stroke-opacity="1.0"
-              stroke="#bf6476"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -180.854889,-193.321793 C -170.659393,-209.447922 -131.176956,-218.343842 -115.050827,-208.148346"
-              class="Soziale Gruppen Organisationen (Gesellschaft)"
-              stroke-opacity="1.0" stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -180.854889,-193.321793 C -189.029327,-171.722000 -233.690659,-151.583984 -255.290451,-159.758423"
-              class="Soziale Gruppen Personengruppen" stroke-opacity="1.0"
-              stroke="#bf6476"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -255.290451,-159.758423 C -226.423920,-184.370285 -146.206360,-177.988266 -121.594505,-149.121735"
-              class="Personengruppen Personen" stroke-opacity="1.0"
-              stroke="#bf6476"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -121.594505,-149.121735 C -116.233887,-172.147720 -73.653984,-198.645767 -50.627991,-193.285156"
-              class="Personen Sachsystematik" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -115.050827,-208.148346 C -101.422363,-227.262985 -52.307693,-235.492264 -33.193047,-221.863800"
-              class="Organisationen (Gesellschaft) Gesellschaft"
-              stroke-opacity="1.0" stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -115.050827,-208.148346 C -127.207016,-232.187958 -109.381874,-286.481689 -85.342247,-298.637878"
-              class="Organisationen (Gesellschaft) Organisationen nach Sachgebiet"
-              stroke-opacity="1.0" stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -85.342247,-298.637878 C -72.351753,-305.665863 -42.324051,-296.722107 -35.296070,-283.731598"
-              class="Organisationen nach Sachgebiet Organisationen"
-              stroke-opacity="1.0" stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -35.296070,-283.731598 C -20.273165,-262.575928 -29.472319,-208.308060 -50.627991,-193.285156"
-              class="Organisationen Sachsystematik" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -33.193047,-221.863800 C -30.964306,-212.661087 -41.425274,-195.513901 -50.627991,-193.285156"
-              class="Gesellschaft Sachsystematik" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -298.287415,-60.494980 C -293.244324,-112.724854 -207.334885,-183.505020 -155.105011,-178.461945"
-              class="Personen (Kunst und Kultur) Personen nach Sachgebiet"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -298.287415,-60.494980 C -237.362167,-102.082031 -83.593704,-73.074730 -42.006645,-12.149476"
-              class="Personen (Kunst und Kultur) Kunst und Kultur"
-              stroke-opacity="1.0" stroke="#408d77"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -155.105011,-178.461945 C -142.534866,-179.296005 -122.428558,-161.691879 -121.594505,-149.121735"
-              class="Personen nach Sachgebiet Personen" stroke-opacity="1.0"
-              stroke="#bf6476"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -233.323029,-15.629354 C -261.135223,-30.516335 -280.523010,-94.565109 -265.636047,-122.377296"
-              class="Personengruppe nach Sachgebiet Personengruppe"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -233.323029,-15.629354 C -250.245941,-63.839478 -203.315125,-161.539017 -155.105011,-178.461945"
-              class="Personengruppe nach Sachgebiet Personen nach Sachgebiet"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -265.636047,-122.377296 C -271.043152,-131.922638 -264.835785,-154.351318 -255.290451,-159.758423"
-              class="Personengruppe Personengruppen" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -208.949036,141.205383 C -211.068787,113.756439 -173.075012,69.403412 -145.626068,67.283661"
-              class="Musik nach Genre Musik" stroke-opacity="1.0"
-              stroke="#bd7e34"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -226.350464,101.546028 C -214.938309,105.997612 -204.497452,129.793228 -208.949036,141.205383"
-              class="Punk Musik nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -226.350464,101.546028 C -239.789032,88.267372 -240.028915,48.191547 -226.750259,34.752979"
-              class="Punk Jugendkultur" stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -226.350464,101.546028 C -215.067627,66.774651 -145.986298,31.541843 -111.214935,42.824680"
-              class="Punk Subkultur" stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -111.214935,42.824680 C -108.368103,17.988192 -66.843140,-14.996303 -42.006645,-12.149476"
-              class="Subkultur Kunst und Kultur" stroke-opacity="1.0"
               stroke="#7da043"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -111.214935,42.824680 C -131.183899,26.452335 -136.578827,-28.059631 -120.206482,-48.028595"
-              class="Subkultur Soziale Bewegungen" stroke-opacity="1.0"
-              stroke="#fc7742"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -120.206482,-48.028595 C -137.570831,-100.198326 -85.362778,-204.499451 -33.193047,-221.863800"
-              class="Soziale Bewegungen Gesellschaft" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -226.750259,34.752979 C -237.186905,52.540886 -279.523743,63.567776 -297.311646,53.131126"
-              class="Jugendkultur Jugend" stroke-opacity="1.0" stroke="#fc7742"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -226.750259,34.752979 C -202.028854,13.260256 -132.707672,18.103273 -111.214935,42.824680"
-              class="Jugendkultur Subkultur" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -297.311646,53.131126 C -316.608551,8.272406 -278.265839,-87.961037 -233.407104,-107.257942"
-              class="Jugend Kindheit und Jugend" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -233.407104,-107.257942 C -216.934265,-118.075302 -175.998947,-109.592056 -165.181595,-93.119209"
-              class="Kindheit und Jugend Lebensstadien" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -165.181595,-93.119209 C -162.304062,-136.063110 -93.571899,-196.162689 -50.627991,-193.285156"
-              class="Lebensstadien Sachsystematik" stroke-opacity="1.0"
-              stroke="#ff5d85"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -161.525604,190.671890 C -163.843552,214.051239 -202.389481,245.643326 -225.768829,243.325378"
-              class="Popband Musikgruppe nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -161.525604,190.671890 C -180.724701,179.713821 -193.086273,134.478073 -182.128204,115.278976"
-              class="Popband Popmusik" stroke-opacity="1.0" stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -182.128204,115.278976 C -182.307083,125.828423 -198.399582,141.384262 -208.949036,141.205383"
-              class="Popmusik Musik nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -83.130455,279.790009 C -60.563828,262.468750 -0.732008,270.336823 16.589245,292.903442"
-              class="US-amerikanische Band Band nach Staat" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -83.130455,279.790009 C -48.341576,255.742340 39.913269,271.854126 63.960949,306.643005"
-              class="US-amerikanische Band Musikgruppe (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 63.960949,306.643005 C 65.218666,290.910217 90.704422,269.197632 106.437202,270.455322"
-              class="Musikgruppe (Vereinigte Staaten) Musikgruppe nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 63.960949,306.643005 C 56.866364,283.935242 80.286140,239.231705 102.993904,232.137131"
-              class="Musikgruppe (Vereinigte Staaten) Musik (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 63.960949,306.643005 C 40.001781,240.519699 103.248001,105.395966 169.371323,81.436798"
-              class="Musikgruppe (Vereinigte Staaten) Künstlergruppe (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 169.371323,81.436798 C 189.168823,93.495766 200.776596,141.280457 188.717621,161.077957"
-              class="Künstlergruppe (Vereinigte Staaten) Kunst (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 169.371323,81.436798 C 88.561546,149.617401 -134.924026,130.673676 -203.104645,49.863899"
-              class="Künstlergruppe (Vereinigte Staaten) Künstlergruppe"
-              stroke-opacity="1.0" stroke="#4099b3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 188.717621,161.077957 C 148.178574,164.166992 82.736435,107.991959 79.647400,67.452911"
-              class="Kunst (Vereinigte Staaten) Kunst nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 188.717621,161.077957 C 177.252274,166.558075 151.834045,157.580246 146.353928,146.114899"
-              class="Kunst (Vereinigte Staaten) Kultur (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 146.353928,146.114899 C 136.845215,141.595596 129.361099,120.553558 133.880402,111.044846"
-              class="Kultur (Vereinigte Staaten) Vereinigte Staaten"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 146.353928,146.114899 C 129.498901,126.172348 134.130173,70.975967 154.072723,54.120937"
-              class="Kultur (Vereinigte Staaten) Kultur nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 146.353928,146.114899 C 181.686783,108.105019 291.700867,104.089439 329.710754,139.422287"
-              class="Kultur (Vereinigte Staaten) Kultur (Nordamerika)"
-              stroke-opacity="1.0" stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 329.710754,139.422287 C 304.786896,135.359818 273.494812,91.880287 277.557281,66.956421"
-              class="Kultur (Nordamerika) Kultur (Amerika)" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 329.710754,139.422287 C 308.738861,93.376480 346.349731,-7.150088 392.395538,-28.121984"
-              class="Kultur (Nordamerika) Nordamerika" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 392.395538,-28.121984 C 354.145447,-4.684572 261.614136,-26.903620 238.176727,-65.153732"
-              class="Nordamerika Amerika" stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 392.395538,-28.121984 C 331.522827,-32.317268 246.506638,-129.919281 250.701920,-190.792023"
-              class="Nordamerika Kontinent als Thema" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 250.701920,-190.792023 C 234.594849,-183.845505 200.014435,-197.586304 193.067917,-213.693375"
-              class="Kontinent als Thema Erde" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 193.067917,-213.693375 C 167.427032,-196.837738 103.682228,-210.015640 86.826599,-235.656525"
-              class="Erde Räumliche Systematik" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 86.826599,-235.656525 C 68.292374,-230.415543 32.629559,-250.355408 27.388569,-268.889618"
-              class="Räumliche Systematik !Hauptkategorie" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 238.176727,-65.153732 C 215.554108,-92.786423 223.069229,-168.169403 250.701920,-190.792023"
-              class="Amerika Kontinent als Thema" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 277.557281,66.956421 C 243.259155,48.410500 219.630814,-30.855591 238.176727,-65.153732"
-              class="Kultur (Amerika) Amerika" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 277.557281,66.956421 C 260.402069,36.325867 280.615082,-35.352787 311.245636,-52.507999"
-              class="Kultur (Amerika) Kultur nach Kontinent"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 311.245636,-52.507999 C 275.760101,9.409302 129.655823,49.056938 67.738518,13.571395"
-              class="Kultur nach Kontinent Kultur nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 311.245636,-52.507999 C 238.247971,-38.847763 108.261124,-127.853897 94.600883,-200.851563"
-              class="Kultur nach Kontinent Thema nach Kontinent"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 94.600883,-200.851563 C 88.090996,-185.409607 55.163231,-172.011520 39.721279,-178.521408"
-              class="Thema nach Kontinent Räumliche Sachsystematik"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 94.600883,-200.851563 C 111.725929,-223.113327 170.806152,-230.818420 193.067917,-213.693375"
-              class="Thema nach Kontinent Erde" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 39.721279,-178.521408 C 18.698675,-163.404297 -35.510887,-172.262558 -50.627991,-193.285156"
-              class="Räumliche Sachsystematik Sachsystematik"
-              stroke-opacity="1.0" stroke="#f074c2"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 39.721279,-178.521408 C 37.715317,-199.369492 65.978508,-233.650574 86.826599,-235.656525"
-              class="Räumliche Sachsystematik Räumliche Systematik"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 67.738518,13.571395 C 31.399578,-1.819524 -0.022453,-79.414322 15.368465,-115.753258"
-              class="Kultur nach räumlicher Zuordnung Kunst und Kultur nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00bbc3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 15.368465,-115.753258 C 7.685399,-133.177444 22.297085,-170.838333 39.721279,-178.521408"
-              class="Kunst und Kultur nach räumlicher Zuordnung Räumliche Sachsystematik"
-              stroke-opacity="1.0" stroke="#719dc3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 15.368465,-115.753258 C 24.614201,-83.557480 -9.810865,-21.395214 -42.006645,-12.149476"
-              class="Kunst und Kultur nach räumlicher Zuordnung Kunst und Kultur"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 154.072723,54.120937 C 110.214561,41.181347 63.836723,-44.015259 76.776314,-87.873413"
-              class="Kultur nach Staat Thema nach Staat" stroke-opacity="1.0"
-              stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 154.072723,54.120937 C 128.695969,63.277870 76.895447,38.948147 67.738518,13.571395"
-              class="Kultur nach Staat Kultur nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 76.776314,-87.873413 C 76.254898,-103.969307 99.616608,-128.895264 115.712502,-129.416687"
-              class="Thema nach Staat Staaten" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 76.776314,-87.873413 C 51.235710,-98.592010 29.002687,-152.980804 39.721279,-178.521408"
-              class="Thema nach Staat Räumliche Sachsystematik"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 115.712502,-129.416687 C 114.328255,-161.743103 160.741501,-212.309128 193.067917,-213.693375"
-              class="Staaten Erde" stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 133.880402,111.044846 C 144.677063,49.672920 252.929932,-26.189976 314.301849,-15.393320"
-              class="Vereinigte Staaten Staat als Thema" stroke-opacity="1.0"
-              stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 314.301849,-15.393320 C 251.779312,1.519878 132.625702,-66.894142 115.712502,-129.416687"
-              class="Staat als Thema Staaten" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 79.647400,67.452911 C 62.518425,39.294453 79.062660,-28.636692 107.221115,-45.765663"
-              class="Kunst nach Staat Kunst nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00bbc3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 79.647400,67.452911 C 91.866066,49.901451 136.521255,41.902267 154.072723,54.120937"
-              class="Kunst nach Staat Kultur nach Staat" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 107.221115,-45.765663 C 74.853065,-41.392654 19.741476,-83.385208 15.368465,-115.753258"
-              class="Kunst nach räumlicher Zuordnung Kunst und Kultur nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 102.993904,232.137131 C 94.461464,206.260681 120.477470,154.647339 146.353928,146.114899"
-              class="Musik (Vereinigte Staaten) Kultur (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 102.993904,232.137131 C 82.306892,229.974564 54.520237,195.700211 56.682800,175.013199"
-              class="Musik (Vereinigte Staaten) Musik nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 56.682800,175.013199 C 41.272697,158.874084 42.366226,111.550240 58.505348,96.140137"
-              class="Musik nach Staat Musik nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 56.682800,175.013199 C 51.982330,131.356766 110.416290,58.821407 154.072723,54.120937"
-              class="Musik nach Staat Kultur nach Staat" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 58.505348,96.140137 C 11.907766,131.195129 -110.571075,113.881241 -145.626068,67.283661"
-              class="Musik nach räumlicher Zuordnung Musik" stroke-opacity="1.0"
-              stroke="#4099b3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 58.505348,96.140137 C 43.838234,77.779755 49.378136,28.238510 67.738518,13.571395"
-              class="Musik nach räumlicher Zuordnung Kultur nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 106.437202,270.455322 C 39.459282,282.658997 -79.313133,200.497650 -91.516823,133.519730"
-              class="Musikgruppe nach Staat Musikgruppe" stroke-opacity="1.0"
-              stroke="#4099b3"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 106.437202,270.455322 C 77.397896,261.317780 47.545258,204.052505 56.682800,175.013199"
-              class="Musikgruppe nach Staat Musik nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 16.589245,292.903442 C 30.069214,270.444214 83.977982,256.975342 106.437202,270.455322"
-              class="Band nach Staat Musikgruppe nach Staat"
-              stroke-opacity="1.0" stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -101.965584,101.044540 C -137.574753,125.637764 -227.878342,109.113831 -252.471558,73.504662"
-              class="Green Day Musikgruppe als Thema" stroke-opacity="1.0"
-              stroke="#bd7e34"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -252.471558,73.504662 C -232.346664,50.891361 -168.239365,47.158764 -145.626068,67.283661"
-              class="Musikgruppe als Thema Musik" stroke-opacity="1.0"
-              stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -252.471558,73.504662 C -274.653320,66.006371 -296.678497,21.486300 -289.180206,-0.695453"
-              class="Musikgruppe als Thema Künstlergruppe als Thema"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -289.180206,-0.695453 C -305.741730,-2.238353 -328.269623,-29.394957 -326.726715,-45.956463"
-              class="Künstlergruppe als Thema Personengruppe als Thema"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -289.180206,-0.695453 C -254.252197,-34.737270 -150.797470,-33.407990 -116.755669,1.520011"
-              class="Künstlergruppe als Thema Künstlergruppen"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -326.726715,-45.956463 C -335.199829,-83.004112 -292.338074,-151.285278 -255.290451,-159.758423"
-              class="Personengruppe als Thema Personengruppen"
-              stroke-opacity="1.0" stroke="#806b68"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 31.469351,130.955841 C 14.133821,113.362450 14.520615,60.969078 32.114006,43.633545"
-              class="Grammy-Preisträger Grammy Awards" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 31.469351,130.955841 C 16.363197,140.064392 -19.958866,131.068008 -29.067421,115.961845"
-              class="Grammy-Preisträger Musikpreisträger" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 31.469351,130.955841 C 21.734365,79.834778 83.813477,-11.449272 134.934540,-21.184258"
-              class="Grammy-Preisträger Preisträger (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 134.934540,-21.184258 C 122.639000,-29.924286 117.305740,-61.477631 126.045769,-73.773170"
-              class="Preisträger (Vereinigte Staaten) Preisträger nach Staat"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 134.934540,-21.184258 C 143.486710,-21.850134 157.313797,-10.020679 157.979675,-1.468500"
-              class="Preisträger (Vereinigte Staaten) Gesellschaft (Vereinigte Staaten)"
-              stroke-opacity="1.0" stroke="#a5a781"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 157.979675,-1.468500 C 175.662491,25.854025 161.202927,93.362030 133.880402,111.044846"
-              class="Gesellschaft (Vereinigte Staaten) Vereinigte Staaten"
-              stroke-opacity="1.0" stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 157.979675,-1.468500 C 113.358025,-16.059175 68.311554,-104.877678 82.902229,-149.499329"
-              class="Gesellschaft (Vereinigte Staaten) Gesellschaft nach Staat"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 157.979675,-1.468500 C 145.447342,-42.893898 188.786911,-123.830513 230.212311,-136.362854"
-              class="Gesellschaft (Vereinigte Staaten) Gesellschaft (Amerika)"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 230.212311,-136.362854 C 185.925720,-137.348480 120.974304,-205.256790 121.959930,-249.543381"
-              class="Gesellschaft (Amerika) Gesellschaft nach Kontinent"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 230.212311,-136.362854 C 246.047012,-123.713913 250.825668,-80.988434 238.176727,-65.153732"
-              class="Gesellschaft (Amerika) Amerika" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 121.959930,-249.543381 C 126.226486,-234.333221 109.811058,-205.118103 94.600883,-200.851563"
-              class="Gesellschaft nach Kontinent Thema nach Kontinent"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 121.959930,-249.543381 C 142.380081,-275.449707 211.869797,-283.678955 237.776123,-263.258789"
-              class="Gesellschaft nach Kontinent Gesellschaft nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 237.776123,-263.258789 C 215.112640,-206.700348 96.279724,-155.857910 39.721279,-178.521408"
-              class="Gesellschaft nach räumlicher Zuordnung Räumliche Sachsystematik"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 237.776123,-263.258789 C 191.861267,-200.785950 29.279793,-175.948944 -33.193047,-221.863800"
-              class="Gesellschaft nach räumlicher Zuordnung Gesellschaft"
-              stroke-opacity="1.0" stroke="#f074c2"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 82.902229,-149.499329 C 94.002228,-135.948959 90.326675,-98.973412 76.776314,-87.873413"
-              class="Gesellschaft nach Staat Thema nach Staat"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 82.902229,-149.499329 C 91.125122,-203.225998 184.049454,-271.481689 237.776123,-263.258789"
-              class="Gesellschaft nach Staat Gesellschaft nach räumlicher Zuordnung"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 126.045769,-73.773170 C 102.913383,-45.376610 25.619949,-37.480354 -2.776610,-60.612747"
-              class="Preisträger nach Staat Preisträger" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -2.776610,-60.612747 C -19.025938,-74.371078 -22.762432,-119.382568 -9.004099,-135.631897"
-              class="Preisträger Preisverleihungen" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -2.776610,-60.612747 C -19.857729,-59.591103 -47.011875,-83.680305 -48.033524,-100.761429"
-              class="Preisträger Auszeichnungen" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -48.033524,-100.761429 C -69.285904,-127.949997 -60.381615,-200.611420 -33.193047,-221.863800"
-              class="Auszeichnungen Gesellschaft" stroke-opacity="1.0"
-              stroke="#b49044"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -9.004099,-135.631897 C -35.285950,-107.303391 -117.201492,-104.233398 -145.529999,-130.515244"
-              class="Preisverleihungen Veranstaltungen" stroke-opacity="1.0"
-              stroke="#34b945"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -9.004099,-135.631897 C -9.835890,-120.851921 -33.253544,-99.929634 -48.033524,-100.761429"
-              class="Preisverleihungen Auszeichnungen" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -145.529999,-130.515244 C -151.297867,-172.900024 -96.372513,-245.129028 -53.987728,-250.896896"
-              class="Veranstaltungen Ereignisse" stroke-opacity="1.0"
-              stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -53.987728,-250.896896 C -41.793434,-240.046494 -39.777588,-205.479462 -50.627991,-193.285156"
-              class="Ereignisse Sachsystematik" stroke-opacity="1.0"
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 253.334366,-328.143616 115.331604,-240.848892 40.232441,-257.751587"
+              class="de.wikipedia.org Grammy-Preisträger" stroke-opacity="1.0"
+              stroke="#7da043"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 324.187134,-409.551361 414.575104,-338.089172 420.883698,-284.139099"
+              class="de.wikipedia.org Green Day" stroke-opacity="1.0"
               stroke="#7f8686"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -29.067421,115.961845 C -59.124176,75.388763 -43.349693,-30.555992 -2.776610,-60.612747"
-              class="Musikpreisträger Preisträger" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -29.067421,115.961845 C -62.114788,129.537949 -132.049973,100.331032 -145.626068,67.283661"
-              class="Musikpreisträger Musik" stroke-opacity="1.0"
-              stroke="#749736"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 32.114006,43.633545 C 21.441763,69.329659 -33.110767,91.865471 -58.806885,81.193222"
-              class="Grammy Awards Musikpreis als Thema" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -58.806885,81.193222 C -115.081413,111.776115 -245.367538,73.238663 -275.950439,16.964140"
-              class="Musikpreis als Thema Musikalische Veranstaltung als Thema"
-              stroke-opacity="1.0" stroke="#34b945"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -58.806885,81.193222 C -67.501190,68.884682 -62.079830,37.380417 -49.771290,28.686111"
-              class="Musikpreis als Thema Auszeichnung als Thema"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -49.771290,28.686111 C -75.313248,2.449051 -74.270584,-75.219475 -48.033524,-100.761429"
-              class="Auszeichnung als Thema Auszeichnungen" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -275.950439,16.964140 C -239.821655,0.963167 -161.627045,31.154881 -145.626068,67.283661"
-              class="Musikalische Veranstaltung als Thema Musik"
-              stroke-opacity="1.0" stroke="#408d77"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -275.950439,16.964140 C -258.639801,-19.423176 -178.092850,-48.038177 -141.705536,-30.727533"
-              class="Musikalische Veranstaltung als Thema Veranstaltung (Kunst und Kultur) als Thema"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -141.705536,-30.727533 C -145.834686,-44.519283 -131.340790,-71.400635 -117.549042,-75.529785"
-              class="Veranstaltung (Kunst und Kultur) als Thema Veranstaltungen (Kunst und Kultur)"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -141.705536,-30.727533 C -155.580017,-69.954857 -117.550774,-149.607605 -78.323448,-163.482086"
-              class="Veranstaltung (Kunst und Kultur) als Thema Veranstaltung als Thema"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -78.323448,-163.482086 C -85.171387,-143.447403 -125.495316,-123.667305 -145.529999,-130.515244"
-              class="Veranstaltung als Thema Veranstaltungen"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -78.323448,-163.482086 C -106.673622,-176.140976 -130.210541,-237.654556 -117.551659,-266.004730"
-              class="Veranstaltung als Thema Ereignis als Thema"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -117.551659,-266.004730 C -101.817307,-275.695953 -63.678947,-266.631256 -53.987728,-250.896896"
-              class="Ereignis als Thema Ereignisse" stroke-opacity="1.0"
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 328.508453,-425.852478 449.830109,-372.359955 472.439819,-314.088562"
+              class="de.wikipedia.org Punkband" stroke-opacity="1.0"
               stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -117.549042,-75.529785 C -134.142319,-80.930687 -150.930893,-113.921959 -145.529999,-130.515244"
-              class="Veranstaltungen (Kunst und Kultur) Veranstaltungen"
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 209.529510,-412.661804 132.596771,-517.851746 142.015808,-578.559265"
+              class="de.wikipedia.org US-amerikanische Band"
+              stroke-opacity="1.0" stroke="#719dc3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 270.237061,-403.242767 C 299.585022,-455.779083 422.411438,-490.561584 474.947754,-461.213623"
+              class="de.wikipedia.org Pop-Punk-Band" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 474.947754,-461.213623 C 501.900146,-500.201904 600.811157,-518.255798 639.799438,-491.303406"
+              class="Pop-Punk-Band Popband" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 474.947754,-461.213623 C 503.871185,-431.287018 502.366425,-343.011993 472.439819,-314.088562"
+              class="Pop-Punk-Band Punkband" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 639.799438,-491.303406 C 626.690552,-458.496094 557.816284,-428.948425 525.008911,-442.057312"
+              class="Popband Musikgruppe nach Genre" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 639.799438,-491.303406 C 673.594971,-478.921478 705.715210,-409.655334 693.333313,-375.859833"
+              class="Popband Popmusik" stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 693.333313,-375.859833 C 682.715393,-319.731445 582.595947,-251.465744 526.467529,-262.083679"
+              class="Popmusik Musik nach Genre" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 526.467529,-262.083679 C 498.007507,-175.538406 325.499603,-88.410507 238.954315,-116.870522"
+              class="Musik nach Genre Musik" stroke-opacity="1.0"
+              stroke="#7f8686"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 238.954315,-116.870522 C 274.606201,-76.374680 267.340271,37.846863 226.844421,73.498741"
+              class="Musik Kunst nach Gattung" stroke-opacity="1.0"
+              stroke="#7f92c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 226.844421,73.498741 C 244.007477,136.554199 175.168869,256.881958 112.113411,274.045013"
+              class="Kunst nach Gattung Kunst und Kultur" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 112.113411,274.045013 C 135.110077,340.531921 69.874680,474.757263 3.387772,497.753937"
+              class="Kunst und Kultur Sachsystematik" stroke-opacity="1.0"
+              stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.387772,497.753937 C -45.803223,554.912659 -205.327774,566.864258 -262.486511,517.673279"
+              class="Sachsystematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 525.008911,-442.057312 C 561.295410,-406.354309 562.170532,-298.370117 526.467529,-262.083679"
+              class="Musikgruppe nach Genre Musik nach Genre"
               stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -117.549042,-75.529785 C -89.764496,-77.962204 -44.439064,-39.934021 -42.006645,-12.149476"
-              class="Veranstaltungen (Kunst und Kultur) Kunst und Kultur"
-              stroke-opacity="1.0" stroke="#00af87"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 22.549259,190.833206 C 11.351494,190.097244 -4.341212,172.196655 -3.605253,160.998901"
-              class="Echo-Pop-Preisträger Echo (Musikpreis)"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 22.549259,190.833206 C -2.748349,186.182266 -33.718357,141.259445 -29.067421,115.961845"
-              class="Echo-Pop-Preisträger Musikpreisträger" stroke-opacity="1.0"
-              stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 22.549259,190.833206 C 23.862570,127.523438 120.797195,34.528736 184.106964,35.842049"
-              class="Echo-Pop-Preisträger Preisträger (Deutschland)"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 184.106964,35.842049 C 150.571671,25.531242 115.734962,-40.237888 126.045769,-73.773170"
-              class="Preisträger (Deutschland) Preisträger nach Staat"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 184.106964,35.842049 C 155.070679,10.117214 150.103516,-72.024467 175.828339,-101.060753"
-              class="Preisträger (Deutschland) Gesellschaft (Deutschland)"
+        <path fill="none" stroke-width="1.0"
+              d="M 525.008911,-442.057312 C 477.185181,-403.327881 347.355469,-416.969269 308.626038,-464.792999"
+              class="Musikgruppe nach Genre Musikgruppe" stroke-opacity="1.0"
+              stroke="#719dc3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 308.626038,-464.792999 C 354.364441,-425.523285 364.067474,-298.011139 324.797760,-252.272736"
+              class="Musikgruppe Künstlergruppe (Musik)" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 324.797760,-252.272736 C 362.157288,-213.469376 359.991455,-99.225075 321.188110,-61.865570"
+              class="Künstlergruppe (Musik) Künstlergruppe" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 324.797760,-252.272736 C 334.709503,-208.023605 283.203461,-126.782272 238.954315,-116.870522"
+              class="Künstlergruppe (Musik) Musik" stroke-opacity="1.0"
+              stroke="#f074c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 321.188110,-61.865570 C 399.934296,-53.006413 504.764832,78.401596 495.905670,157.147781"
+              class="Künstlergruppe Personengruppe nach Sachgebiet"
+              stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 321.188110,-61.865570 C 390.669586,-36.172432 456.352081,106.589478 430.658936,176.070953"
+              class="Künstlergruppe Künstlergruppen" stroke-opacity="1.0"
+              stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.658936,176.070953 C 432.415863,219.645111 369.690033,287.641754 326.115845,289.398682"
+              class="Künstlergruppen Personen (Kunst und Kultur)"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.658936,176.070953 C 471.525818,231.935822 449.028870,377.033478 393.164001,417.900360"
+              class="Künstlergruppen Soziale Gruppen" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 393.164001,417.900360 C 376.925507,479.315674 260.444763,547.080994 199.029419,530.842468"
+              class="Soziale Gruppen Organisationen (Gesellschaft)"
+              stroke-opacity="1.0" stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 393.164001,417.900360 C 418.926453,384.457367 507.734680,372.936554 541.177673,398.699005"
+              class="Soziale Gruppen Personengruppen" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 541.177673,398.699005 C 509.189697,459.305084 370.298584,502.232239 309.692505,470.244263"
+              class="Personengruppen Personen" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 309.692505,470.244263 C 253.933502,537.007141 70.150658,553.512939 3.387772,497.753937"
+              class="Personen Sachsystematik" stroke-opacity="1.0"
+              stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 199.029419,530.842468 C 120.423065,545.990540 -20.208574,450.803101 -35.356644,372.196747"
+              class="Organisationen (Gesellschaft) Gesellschaft"
+              stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 199.029419,530.842468 C 239.283554,568.726135 242.839294,685.932800 204.955643,726.186951"
+              class="Organisationen (Gesellschaft) Organisationen nach Sachgebiet"
+              stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 204.955643,726.186951 C 176.886047,743.159546 109.322731,726.514099 92.350128,698.444458"
+              class="Organisationen nach Sachgebiet Organisationen"
+              stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.350128,698.444458 C 34.419552,676.098816 -18.957861,555.684509 3.387772,497.753937"
+              class="Organisationen Sachsystematik" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -35.356644,372.196747 C -2.496325,389.559326 20.750326,464.893616 3.387772,497.753937"
+              class="Gesellschaft Sachsystematik" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 326.115845,289.398682 C 358.805634,277.597076 425.542664,308.929321 437.344269,341.619110"
+              class="Personen (Kunst und Kultur) Personen nach Sachgebiet"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 326.115845,289.398682 C 280.244629,329.128418 151.843155,319.916229 112.113411,274.045013"
+              class="Personen (Kunst und Kultur) Kunst und Kultur"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 437.344269,341.619110 C 437.538940,392.874512 360.947906,470.049591 309.692505,470.244263"
+              class="Personen nach Sachgebiet Personen" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.905670,157.147781 C 551.696960,162.374069 627.544434,253.900375 622.318115,309.691650"
+              class="Personengruppe nach Sachgebiet Personengruppe"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.905670,157.147781 C 521.087646,205.754333 485.950806,316.437134 437.344269,341.619110"
+              class="Personengruppe nach Sachgebiet Personen nach Sachgebiet"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 622.318115,309.691650 C 623.891479,343.721222 575.207214,397.125610 541.177673,398.699005"
+              class="Personengruppe Personengruppen" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.015808,-578.559265 C 111.161102,-593.527649 87.331650,-662.262329 102.300064,-693.117065"
+              class="US-amerikanische Band Band nach Staat" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.015808,-578.559265 C 120.302582,-529.605896 14.302689,-488.745697 -34.650673,-510.458923"
+              class="US-amerikanische Band Musikgruppe (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.650673,-510.458923 C -20.944342,-532.099060 32.075333,-543.999695 53.715454,-530.293396"
+              class="Musikgruppe (Vereinigte Staaten) Musikgruppe nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.650673,-510.458923 C -76.307472,-455.434265 -221.329681,-435.382385 -276.354370,-477.039215"
+              class="Musikgruppe (Vereinigte Staaten) Musik (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.650673,-510.458923 C 29.461815,-486.635742 89.895775,-354.732239 66.072594,-290.619751"
+              class="Musikgruppe (Vereinigte Staaten) Künstlergruppe (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.072594,-290.619751 C -9.586786,-237.978180 -202.038208,-272.504883 -254.679779,-348.164276"
+              class="Künstlergruppe (Vereinigte Staaten) Kunst (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.072594,-290.619751 C 162.846527,-295.892029 315.915833,-158.639511 321.188110,-61.865570"
+              class="Künstlergruppe (Vereinigte Staaten) Künstlergruppe"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.679779,-348.164276 C -264.386414,-307.720642 -339.611877,-261.615082 -380.055511,-271.321716"
+              class="Kunst (Vereinigte Staaten) Kunst nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -254.679779,-348.164276 C -297.728333,-294.723572 -442.462219,-279.135315 -495.902924,-322.183868"
+              class="Kunst (Vereinigte Staaten) Kultur (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.902924,-322.183868 C -494.240936,-274.081146 -563.901978,-199.434097 -612.004700,-197.772095"
+              class="Kultur (Vereinigte Staaten) Vereinigte Staaten"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.902924,-322.183868 C -456.875122,-310.629700 -415.664734,-234.756790 -427.218903,-195.729019"
+              class="Kultur (Vereinigte Staaten) Kultur nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.902924,-322.183868 C -532.264099,-247.693207 -698.541809,-190.498901 -773.032471,-226.860062"
+              class="Kultur (Vereinigte Staaten) Kultur (Nordamerika)"
               stroke-opacity="1.0" stroke="#a5a781"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 175.828339,-101.060753 C 212.784760,-88.769035 249.781845,-14.896827 237.490128,22.059605"
+        <path fill="none" stroke-width="1.0"
+              d="M -773.032471,-226.860062 C -762.863831,-185.149780 -810.176270,-107.331390 -851.886536,-97.162743"
+              class="Kultur (Nordamerika) Kultur (Amerika)" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -773.032471,-226.860062 C -776.662354,-161.466095 -880.198120,-68.819946 -945.592041,-72.449814"
+              class="Kultur (Nordamerika) Nordamerika" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.592041,-72.449814 C -918.940308,-67.511711 -886.369934,-20.127029 -891.308044,6.524668"
+              class="Nordamerika Amerika" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.592041,-72.449814 C -904.590210,-37.939995 -894.852173,75.327484 -929.362000,116.329323"
+              class="Nordamerika Kontinent als Thema" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -929.362000,116.329323 C -855.905457,101.938049 -724.133667,190.535980 -709.742432,263.992554"
+              class="Kontinent als Thema Erde" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -709.742432,263.992554 C -635.225098,246.850357 -497.735840,332.912964 -480.593658,407.430298"
+              class="Erde Räumliche Systematik" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.593658,407.430298 C -414.923645,385.857452 -284.059357,452.003265 -262.486511,517.673279"
+              class="Räumliche Systematik !Hauptkategorie" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -891.308044,6.524668 C -876.957886,36.096390 -899.790283,101.979187 -929.362000,116.329323"
+              class="Amerika Kontinent als Thema" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -851.886536,-97.162743 C -839.033325,-68.540962 -862.686279,-6.328512 -891.308044,6.524668"
+              class="Kultur (Amerika) Amerika" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -851.886536,-97.162743 C -786.842407,-122.114090 -651.849182,-61.974926 -626.897827,3.069209"
+              class="Kultur (Amerika) Kultur nach Kontinent"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -626.897827,3.069209 C -580.223999,-58.495033 -417.866852,-80.830627 -356.302612,-34.156784"
+              class="Kultur nach Kontinent Kultur nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -626.897827,3.069209 C -568.888672,34.428802 -528.914246,168.481949 -560.273865,226.491135"
+              class="Kultur nach Kontinent Thema nach Kontinent"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -560.273865,226.491135 C -496.070221,194.619781 -351.957703,243.118256 -320.086365,307.321930"
+              class="Thema nach Kontinent Räumliche Sachsystematik"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -560.273865,226.491135 C -582.667297,263.885132 -672.348389,286.385986 -709.742432,263.992554"
+              class="Thema nach Kontinent Erde" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.086365,307.321930 C -217.305145,280.713501 -23.220661,394.972717 3.387772,497.753937"
+              class="Räumliche Sachsystematik Sachsystematik"
+              stroke-opacity="1.0" stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.086365,307.321930 C -332.166168,359.445068 -428.470520,419.510101 -480.593658,407.430298"
+              class="Räumliche Sachsystematik Räumliche Systematik"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.302612,-34.156784 C -287.775818,-32.734631 -187.118866,72.188766 -188.541016,140.715561"
+              class="Kultur nach räumlicher Zuordnung Kunst und Kultur nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -188.541016,140.715561 C -181.528809,200.345901 -260.455994,300.309723 -320.086365,307.321930"
+              class="Kunst und Kultur nach räumlicher Zuordnung Räumliche Sachsystematik"
+              stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -188.541016,140.715561 C -101.744232,107.250565 78.648415,187.248230 112.113411,274.045013"
+              class="Kunst und Kultur nach räumlicher Zuordnung Kunst und Kultur"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -427.218903,-195.729019 C -380.940216,-129.251968 -411.237793,39.881622 -477.714844,86.160301"
+              class="Kultur nach Staat Thema nach Staat" stroke-opacity="1.0"
+              stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -427.218903,-195.729019 C -380.721191,-177.597824 -338.171417,-80.654495 -356.302612,-34.156784"
+              class="Kultur nach Staat Kultur nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.714844,86.160301 C -512.369385,132.905624 -634.469177,151.041779 -681.214539,116.387238"
+              class="Thema nach Staat Staaten" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.714844,86.160301 C -401.956818,98.866928 -307.379730,231.563904 -320.086365,307.321930"
+              class="Thema nach Staat Räumliche Sachsystematik"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.214539,116.387238 C -657.399048,151.613876 -674.515808,240.177078 -709.742432,263.992554"
+              class="Staaten Erde" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -612.004700,-197.772095 C -611.972290,-150.731506 -682.484497,-80.121986 -729.525085,-80.089554"
+              class="Vereinigte Staaten Staat als Thema" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -729.525085,-80.089554 C -680.567627,-50.456303 -651.581299,67.429764 -681.214539,116.387238"
+              class="Staat als Thema Staaten" stroke-opacity="1.0"
+              stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -380.055511,-271.321716 C -313.043396,-251.052155 -242.929535,-120.129692 -263.199097,-53.117573"
+              class="Kunst nach Staat Kunst nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -380.055511,-271.321716 C -374.369659,-246.770508 -402.667694,-201.414886 -427.218903,-195.729019"
+              class="Kunst nach Staat Kultur nach Staat" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.199097,-53.117573 C -209.500854,-29.282564 -164.705994,87.017319 -188.541016,140.715561"
+              class="Kunst nach räumlicher Zuordnung Kunst und Kultur nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -276.354370,-477.039215 C -289.292999,-402.158447 -421.022156,-309.245239 -495.902924,-322.183868"
+              class="Musik (Vereinigte Staaten) Kultur (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -276.354370,-477.039215 C -239.528076,-472.995941 -190.353592,-411.691559 -194.396881,-374.865265"
+              class="Musik (Vereinigte Staaten) Musik nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -194.396881,-374.865265 C -132.028229,-361.859589 -57.983765,-248.798065 -70.989449,-186.429398"
+              class="Musik nach Staat Musik nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -194.396881,-374.865265 C -205.134033,-292.473633 -344.827240,-184.991867 -427.218903,-195.729019"
+              class="Musik nach Staat Kultur nach Staat" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.989449,-186.429398 C 4.911077,-234.506378 190.877335,-192.771057 238.954315,-116.870522"
+              class="Musik nach räumlicher Zuordnung Musik" stroke-opacity="1.0"
+              stroke="#f074c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.989449,-186.429398 C -97.597565,-98.912231 -268.785431,-7.548672 -356.302612,-34.156784"
+              class="Musik nach räumlicher Zuordnung Kultur nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 53.715454,-530.293396 C 117.797653,-568.175415 270.743988,-528.875183 308.626038,-464.792999"
+              class="Musikgruppe nach Staat Musikgruppe" stroke-opacity="1.0"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 53.715454,-530.293396 C 35.178612,-449.585297 -113.688789,-356.328430 -194.396881,-374.865265"
+              class="Musikgruppe nach Staat Musik nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 102.300064,-693.117065 C 125.147873,-650.835388 95.997108,-553.141235 53.715454,-530.293396"
+              class="Band nach Staat Musikgruppe nach Staat"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 472.439819,-314.088562 C 533.039856,-265.245361 550.675110,-101.080452 501.831879,-40.480412"
+              class="Punkband Punk" stroke-opacity="1.0" stroke="#408d77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 472.439819,-314.088562 C 457.359894,-350.196136 488.901367,-426.977386 525.008911,-442.057312"
+              class="Punkband Musikgruppe nach Genre" stroke-opacity="1.0"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 501.831879,-40.480412 C 462.438354,-89.728203 477.219757,-222.690155 526.467529,-262.083679"
+              class="Punk Musik nach Genre" stroke-opacity="1.0"
+              stroke="#408d77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 501.831879,-40.480412 C 561.368530,1.514494 587.681213,153.811859 545.686279,213.348511"
+              class="Punk Jugendkultur" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 501.831879,-40.480412 C 517.156799,37.999779 422.423859,178.707428 343.943665,194.032318"
+              class="Punk Subkultur" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 343.943665,194.032318 C 313.580139,256.400909 174.481995,304.408539 112.113411,274.045013"
+              class="Subkultur Kunst und Kultur" stroke-opacity="1.0"
+              stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 343.943665,194.032318 C 339.324554,251.016342 246.919891,329.563782 189.935867,324.944672"
+              class="Subkultur Soziale Bewegungen" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.935867,324.944672 C 154.327774,379.453583 19.152277,407.804840 -35.356644,372.196747"
+              class="Soziale Bewegungen Gesellschaft" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.686279,213.348511 C 604.779419,252.579773 634.572266,400.066376 595.341003,459.159515"
+              class="Jugendkultur Jugend" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.686279,213.348511 C 501.474518,249.833801 380.428925,238.244080 343.943665,194.032318"
+              class="Jugendkultur Subkultur" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 595.341003,459.159515 C 603.982178,516.403625 531.077820,615.231506 473.833740,623.872681"
+              class="Jugend Kindheit und Jugend" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 473.833740,623.872681 C 428.861694,668.673096 294.203003,668.415588 249.402573,623.443542"
+              class="Kindheit und Jugend Lebensstadien" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 249.402573,623.443542 C 175.061691,647.508545 27.452810,572.094788 3.387772,497.753937"
+              class="Lebensstadien Sachsystematik" stroke-opacity="1.0"
+              stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 420.883698,-284.139099 C 465.819305,-254.912430 489.382751,-143.669006 460.156067,-98.733391"
+              class="Green Day Musikgruppe als Thema" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 460.156067,-98.733391 C 412.288269,-58.120464 279.567230,-69.002747 238.954315,-116.870522"
+              class="Musikgruppe als Thema Musik" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 460.156067,-98.733391 C 524.699951,-84.823914 600.651489,32.856071 586.742004,97.399925"
+              class="Musikgruppe als Thema Künstlergruppe als Thema"
+              stroke-opacity="1.0" stroke="#7f92c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 586.742004,97.399925 C 639.878174,114.300232 694.231934,219.354889 677.331604,272.491028"
+              class="Künstlergruppe als Thema Personengruppe als Thema"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 586.742004,97.399925 C 571.259583,144.350739 477.609741,191.553360 430.658936,176.070953"
+              class="Künstlergruppe als Thema Künstlergruppen"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 677.331604,272.491028 C 675.342407,324.963409 593.650024,400.688171 541.177673,398.699005"
+              class="Personengruppe als Thema Personengruppen"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.232441,-257.751587 C 61.962265,-260.833191 99.179405,-232.860886 102.261017,-211.131058"
+              class="Grammy-Preisträger Grammy Awards" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.232441,-257.751587 C 70.401199,-233.782196 79.700249,-152.574966 55.730854,-122.406212"
+              class="Grammy-Preisträger Musikpreisträger" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.232441,-257.751587 C 10.100145,-183.649109 -146.251984,-117.693848 -220.354462,-147.826141"
+              class="Grammy-Preisträger Preisträger (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -220.354462,-147.826141 C -199.154083,-115.808128 -215.380554,-35.980560 -247.398560,-14.780190"
+              class="Preisträger (Vereinigte Staaten) Preisträger nach Staat"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -220.354462,-147.826141 C -261.532318,-82.165550 -421.790009,-45.441460 -487.450592,-86.619324"
+              class="Preisträger (Vereinigte Staaten) Gesellschaft (Vereinigte Staaten)"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -487.450592,-86.619324 C -534.591919,-83.939056 -609.324402,-150.630707 -612.004700,-197.772095"
+              class="Gesellschaft (Vereinigte Staaten) Vereinigte Staaten"
+              stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -487.450592,-86.619324 C -445.538513,-72.580147 -403.729187,11.346713 -417.768341,53.258785"
+              class="Gesellschaft (Vereinigte Staaten) Gesellschaft nach Staat"
+              stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -487.450592,-86.619324 C -506.578430,-21.903339 -632.344116,46.478874 -697.060120,27.351042"
+              class="Gesellschaft (Vereinigte Staaten) Gesellschaft (Amerika)"
+              stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -697.060120,27.351042 C -647.928589,35.354759 -586.237000,121.057564 -594.240723,170.189041"
+              class="Gesellschaft (Amerika) Gesellschaft nach Kontinent"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -697.060120,27.351042 C -740.075012,62.035355 -856.623718,49.539528 -891.308044,6.524668"
+              class="Gesellschaft (Amerika) Amerika" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -594.240723,170.189041 C -576.186890,174.656097 -555.806824,208.437347 -560.273865,226.491135"
+              class="Gesellschaft nach Kontinent Thema nach Kontinent"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -594.240723,170.189041 C -526.369507,134.389969 -370.864136,182.498169 -335.065063,250.369354"
+              class="Gesellschaft nach Kontinent Gesellschaft nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -335.065063,250.369354 C -320.678833,258.764130 -311.691589,292.935699 -320.086365,307.321930"
+              class="Gesellschaft nach räumlicher Zuordnung Räumliche Sachsystematik"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -335.065063,250.369354 C -250.757904,214.793137 -70.932861,287.889587 -35.356644,372.196747"
+              class="Gesellschaft nach räumlicher Zuordnung Gesellschaft"
+              stroke-opacity="1.0" stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -417.768341,53.258785 C -423.177338,71.828392 -459.145264,91.569305 -477.714844,86.160301"
+              class="Gesellschaft nach Staat Thema nach Staat"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -417.768341,53.258785 C -361.805573,76.140244 -312.183594,194.406586 -335.065063,250.369354"
+              class="Gesellschaft nach Staat Gesellschaft nach räumlicher Zuordnung"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -247.398560,-14.780190 C -190.153717,-21.304693 -94.499695,54.775818 -87.975189,112.020660"
+              class="Preisträger nach Staat Preisträger" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -247.398560,-14.780190 C -267.864716,32.901558 -370.086609,73.724945 -417.768341,53.258785"
+              class="Preisträger nach Staat Gesellschaft nach Staat"
+              stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -87.975189,112.020660 C -41.836926,155.972122 -38.556713,291.106720 -82.508179,337.244995"
+              class="Preisträger Preisverleihungen" stroke-opacity="1.0"
+              stroke="#fc7742"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -87.975189,112.020660 C -54.553226,128.437653 -29.045780,203.196106 -45.462780,236.618073"
+              class="Preisträger Auszeichnungen" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -45.462780,236.618073 C -16.325815,261.712555 -10.262136,343.059784 -35.356644,372.196747"
+              class="Auszeichnungen Gesellschaft" stroke-opacity="1.0"
+              stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -82.508179,337.244995 C -32.455360,372.144836 -9.725918,499.573853 -44.625771,549.626648"
+              class="Preisverleihungen Veranstaltungen" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -82.508179,337.244995 C -95.224480,309.710510 -72.997246,249.334396 -45.462780,236.618073"
+              class="Preisverleihungen Auszeichnungen" stroke-opacity="1.0"
+              stroke="#fc7742"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -44.625771,549.626648 C -17.764124,575.678955 -16.550093,655.049866 -42.602390,681.911499"
+              class="Veranstaltungen Ereignisse" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -42.602390,681.911499 C -70.235870,635.881897 -42.641773,525.387390 3.387772,497.753937"
+              class="Ereignisse Sachsystematik" stroke-opacity="1.0"
+              stroke="#bf6476"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.730854,-122.406212 C 73.875023,-46.779625 -12.348602,93.876495 -87.975189,112.020660"
+              class="Musikpreisträger Preisträger" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.730854,-122.406212 C 93.482689,-157.943771 203.416748,-154.622360 238.954315,-116.870522"
+              class="Musikpreisträger Musik" stroke-opacity="1.0"
+              stroke="#fc7742"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 102.261017,-211.131058 C 105.835403,-171.417633 51.626839,-106.485916 11.913409,-102.911537"
+              class="Grammy Awards Musikpreis als Thema" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.913409,-102.911537 C 72.967422,-85.639030 138.639664,31.850721 121.367165,92.904732"
+              class="Musikpreis als Thema Musikalische Veranstaltung als Thema"
+              stroke-opacity="1.0" stroke="#fc7742"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.913409,-102.911537 C 43.643681,-65.261681 34.764305,38.808510 -2.885552,70.538780"
+              class="Musikpreis als Thema Auszeichnung als Thema"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.885552,70.538780 C 21.814861,112.270081 -3.731476,211.917664 -45.462780,236.618073"
+              class="Auszeichnung als Thema Auszeichnungen" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 121.367165,92.904732 C 102.929550,27.432249 173.481842,-98.432899 238.954315,-116.870522"
+              class="Musikalische Veranstaltung als Thema Musik"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 121.367165,92.904732 C 175.010284,158.051422 157.754913,336.236145 92.608231,389.879242"
+              class="Musikalische Veranstaltung als Thema Veranstaltung (Kunst und Kultur) als Thema"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.608231,389.879242 C 100.535408,409.494476 83.003342,450.808075 63.388119,458.735260"
+              class="Veranstaltung (Kunst und Kultur) als Thema Veranstaltungen (Kunst und Kultur)"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.608231,389.879242 C 125.447983,450.364502 83.979721,590.352051 23.494455,623.191772"
+              class="Veranstaltung (Kunst und Kultur) als Thema Veranstaltung als Thema"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 23.494455,623.191772 C -4.842613,622.102783 -45.714752,577.963684 -44.625771,549.626648"
+              class="Veranstaltung als Thema Veranstaltungen"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 23.494455,623.191772 C 49.117840,665.894653 23.498573,768.384033 -19.204323,794.007446"
+              class="Veranstaltung als Thema Ereignis als Thema"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.204323,794.007446 C -46.303123,776.267883 -60.341965,709.010315 -42.602390,681.911499"
+              class="Ereignis als Thema Ereignisse" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.388119,458.735260 C 59.963615,498.516327 -4.844715,553.051147 -44.625771,549.626648"
+              class="Veranstaltungen (Kunst und Kultur) Veranstaltungen"
+              stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.388119,458.735260 C 36.195129,412.052155 65.430305,301.238007 112.113411,274.045013"
+              class="Veranstaltungen (Kunst und Kultur) Kunst und Kultur"
+              stroke-opacity="1.0" stroke="#7f92c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.004190,-309.686127 C -46.220551,-326.217163 -72.748535,-402.338287 -56.217503,-436.554626"
+              class="Echo-Pop-Preisträger Echo (Musikpreis)"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.004190,-309.686127 C 38.998802,-285.777130 79.639832,-173.409210 55.730854,-122.406212"
+              class="Echo-Pop-Preisträger Musikpreisträger" stroke-opacity="1.0"
+              stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.004190,-309.686127 C -41.044548,-223.715057 -213.561630,-138.319031 -299.532684,-167.359390"
+              class="Echo-Pop-Preisträger Preisträger (Deutschland)"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.532684,-167.359390 C -258.590027,-147.270370 -227.309540,-55.722855 -247.398560,-14.780190"
+              class="Preisträger (Deutschland) Preisträger nach Staat"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.532684,-167.359390 C -328.152832,-96.988251 -476.639709,-34.361736 -547.010864,-62.981873"
+              class="Preisträger (Deutschland) Gesellschaft (Deutschland)"
+              stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -547.010864,-62.981873 C -597.536377,-55.172676 -685.038330,-119.247063 -692.847534,-169.772537"
               class="Gesellschaft (Deutschland) Deutschland"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 175.828339,-101.060753 C 147.555405,-92.163246 91.799736,-121.226395 82.902229,-149.499329"
+              stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -547.010864,-62.981873 C -497.914215,-65.582245 -420.368713,4.162149 -417.768341,53.258785"
               class="Gesellschaft (Deutschland) Gesellschaft nach Staat"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 175.828339,-101.060753 C 169.936966,-120.158852 189.747040,-157.643066 208.845139,-163.534439"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -547.010864,-62.981873 C -562.623108,0.801502 -681.716492,73.058228 -745.499878,57.445992"
               class="Gesellschaft (Deutschland) Gesellschaft (Europa)"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 208.845139,-163.534439 C 174.266312,-163.359177 122.135185,-214.964554 121.959930,-249.543381"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -745.499878,57.445992 C -692.699463,49.742775 -601.943970,117.388596 -594.240723,170.189041"
               class="Gesellschaft (Europa) Gesellschaft nach Kontinent"
-              stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 208.845139,-163.534439 C 221.323807,-156.786728 229.920212,-127.947166 223.172501,-115.468513"
+              stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -745.499878,57.445992 C -788.415283,91.067833 -903.221252,77.127426 -936.843079,34.211987"
               class="Gesellschaft (Europa) Europa" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 223.172501,-115.468513 C 213.613693,-136.039108 230.131332,-181.233215 250.701920,-190.792023"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -936.843079,34.211987 C -918.923401,49.139240 -914.434753,98.409637 -929.362000,116.329323"
               class="Europa Kontinent als Thema" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 223.172501,-115.468513 C 239.073624,-131.010223 286.237854,-130.471130 301.779602,-114.570007"
-              class="Europa Eurasien" stroke-opacity="1.0" stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 301.779602,-114.570007 C 276.319641,-119.598869 245.673050,-165.332092 250.701920,-190.792023"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -936.843079,34.211987 C -950.050659,75.809341 -1032.257935,118.394058 -1073.855347,105.186501"
+              class="Europa Eurasien" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1073.855347,105.186501 C -1042.728149,78.516396 -956.032104,85.202095 -929.362000,116.329323"
               class="Eurasien Kontinent als Thema" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 237.490128,22.059605 C 245.361893,-0.793324 291.448914,-23.265079 314.301849,-15.393320"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -692.847534,-169.772537 C -682.246460,-144.500427 -704.252991,-90.690643 -729.525085,-80.089554"
               class="Deutschland Staat als Thema" stroke-opacity="1.0"
               stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -3.605253,160.998901 C 21.057068,158.574203 61.687592,191.930649 64.112289,216.592957"
+        <path fill="none" stroke-width="1.0"
+              d="M -56.217503,-436.554626 C -46.882683,-402.942474 -83.298653,-338.522034 -116.910789,-329.187225"
               class="Echo (Musikpreis) Musikpreis (Deutschland) als Thema"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 64.112289,216.592957 C 12.448505,214.096832 -61.302998,132.857010 -58.806885,81.193222"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.910789,-329.187225 C -45.890812,-309.696930 31.403706,-173.931519 11.913409,-102.911537"
               class="Musikpreis (Deutschland) als Thema Musikpreis als Thema"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 64.112289,216.592957 C 83.633430,191.340897 150.793243,182.744522 176.045303,202.265656"
+              stroke-opacity="1.0" stroke="#fa9200"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.910789,-329.187225 C -174.264374,-311.277313 -287.159607,-370.442841 -305.069519,-427.796417"
               class="Musikpreis (Deutschland) als Thema Musik (Deutschland)"
-              stroke-opacity="1.0" stroke="#69c404"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 176.045303,202.265656 C 146.722321,220.687668 75.104805,204.336182 56.682800,175.013199"
+              stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.069519,-427.796417 C -272.348755,-439.344696 -205.945175,-407.586029 -194.396881,-374.865265"
               class="Musik (Deutschland) Musik nach Staat" stroke-opacity="1.0"
-              stroke="#34c581"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 176.045303,202.265656 C 177.014542,195.184692 189.089874,186.017090 196.170837,186.986328"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.069519,-427.796417 C -333.977478,-384.596527 -442.139252,-363.158661 -485.339142,-392.066620"
               class="Musik (Deutschland) Kunst (Deutschland)"
-              stroke-opacity="1.0" stroke="#34c581"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 196.170837,186.986328 C 148.959473,186.384338 79.045403,114.664284 79.647400,67.452911"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -485.339142,-392.066620 C -440.133423,-388.974365 -376.963257,-316.527435 -380.055511,-271.321716"
               class="Kunst (Deutschland) Kunst nach Staat" stroke-opacity="1.0"
-              stroke="#00c7ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 196.170837,186.986328 C 182.996124,175.590820 180.327301,138.735489 191.722809,125.560768"
+              stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -485.339142,-392.066620 C -487.426697,-336.955872 -573.224182,-257.421051 -628.334961,-259.508606"
               class="Kunst (Deutschland) Kultur (Deutschland)"
-              stroke-opacity="1.0" stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 191.722809,125.560768 C 169.904831,118.802818 147.314774,75.938919 154.072723,54.120937"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -628.334961,-259.508606 C -575.355835,-286.975891 -454.686188,-248.708160 -427.218903,-195.729019"
               class="Kultur (Deutschland) Kultur nach Staat"
-              stroke-opacity="1.0" stroke="#71a9ff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 191.722809,125.560768 C 180.176025,95.707069 207.636444,33.606373 237.490128,22.059605"
+              stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -628.334961,-259.508606 C -623.290283,-228.658875 -661.997803,-174.817245 -692.847534,-169.772537"
               class="Kultur (Deutschland) Deutschland" stroke-opacity="1.0"
               stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 191.722809,125.560768 C 178.246918,74.339951 234.864319,-22.705101 286.085144,-36.180988"
+        <path fill="none" stroke-width="1.0"
+              d="M -628.334961,-259.508606 C -628.990417,-201.478882 -717.018066,-115.417412 -775.047791,-116.072823"
               class="Kultur (Deutschland) Kultur (Europa)" stroke-opacity="1.0"
               stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 286.085144,-36.180988 C 287.851837,-44.478489 302.948120,-54.274693 311.245636,-52.507999"
+        <path fill="none" stroke-width="1.0"
+              d="M -775.047791,-116.072823 C -721.589355,-121.874405 -632.699402,-50.389191 -626.897827,3.069209"
               class="Kultur (Europa) Kultur nach Kontinent" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M 286.085144,-36.180988 C 257.645111,-39.455963 219.897537,-87.028481 223.172501,-115.468513"
+              stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -775.047791,-116.072823 C -777.349915,-53.656803 -874.427063,36.514084 -936.843079,34.211987"
               class="Kultur (Europa) Europa" stroke-opacity="1.0"
-              stroke="#e28bff"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -54.611763,256.391510 C -72.956451,253.351120 -95.912895,221.273499 -92.872505,202.928818"
+              stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 446.734100,-558.777649 C 478.661346,-590.157166 573.621521,-589.335632 605.001038,-557.408386"
               class="Alternative-Rock-Band Rockband" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -92.872505,202.928818 C -111.372459,237.587402 -191.110245,261.825317 -225.768829,243.325378"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 605.001038,-557.408386 C 612.072815,-518.339783 564.077515,-449.129120 525.008911,-442.057312"
               class="Rockband Musikgruppe nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -92.872505,202.928818 C -108.360542,224.226532 -163.539154,232.941040 -184.836884,217.453018"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 605.001038,-557.408386 C 643.480591,-542.334351 678.588867,-462.004089 663.514832,-423.524567"
               class="Rockband Rock (Musik)" stroke-opacity="1.0"
-              stroke="#fa9200"/>
-        <path fill="none" stroke-width="5.0"
-              d="M -184.836884,217.453018 C -204.908844,207.025925 -219.376129,161.277344 -208.949036,141.205383"
+              stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 663.514832,-423.524567 C 668.393555,-363.826935 586.165161,-266.962402 526.467529,-262.083679"
               class="Rock (Musik) Musik nach Genre" stroke-opacity="1.0"
-              stroke="#fa9200"/>
+              stroke="#00af87"/>
     </g>
     <g id="nodes">
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-73.913315"
-                class="de.wikipedia.org" cy="175.967" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="270.23706"
+                class="de.wikipedia.org" cy="-403.24277" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-54.611763"
-                class="Alternative-Rock-Band" cy="256.3915" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="446.7341"
+                class="Alternative-Rock-Band" cy="-558.77765" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="22.54926"
-                class="Echo-Pop-Preisträger" cy="190.8332" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-12.00419"
+                class="Echo-Pop-Preisträger" cy="-309.68613" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="31.46935"
-                class="Grammy-Preisträger" cy="130.95584" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="40.23244"
+                class="Grammy-Preisträger" cy="-257.7516" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-101.96558"
-                class="Green Day" cy="101.04454" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="420.8837"
+                class="Green Day" cy="-284.1391" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-173.22437"
-                class="Punkband" cy="87.34602" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="472.43982"
+                class="Punkband" cy="-314.08856" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-83.130455"
-                class="US-amerikanische Band" cy="279.79" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="142.01581"
+                class="US-amerikanische Band" cy="-578.55927" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-81.551895"
-                class="Pop-Punk-Band" cy="231.31357" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="474.94775"
+                class="Pop-Punk-Band" cy="-461.21362" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-161.5256"
-                class="Popband" cy="190.67189" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="639.79944"
+                class="Popband" cy="-491.3034" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-226.35046"
-                class="Punk" cy="101.54603" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="525.0089"
+                class="Musikgruppe nach Genre" cy="-442.0573" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-225.76883"
-                class="Musikgruppe nach Genre" cy="243.32538" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="693.3333"
+                class="Popmusik" cy="-375.85983" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-208.94904"
-                class="Musik nach Genre" cy="141.20538" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="526.4675"
+                class="Musik nach Genre" cy="-262.08368" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-91.51682"
-                class="Musikgruppe" cy="133.51973" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="238.95432"
+                class="Musik" cy="-116.87052" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-151.85315"
-                class="Künstlergruppe (Musik)" cy="155.14046" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="226.84442"
+                class="Kunst nach Gattung" cy="73.49874" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-203.10464"
-                class="Künstlergruppe" cy="49.8639" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="112.11341"
+                class="Kunst und Kultur" cy="274.045" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-145.62607"
-                class="Musik" cy="67.28366" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="3.3877718"
+                class="Sachsystematik" cy="497.75394" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-53.21097"
-                class="Kunst nach Gattung" cy="58.430084" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-262.4865"
+                class="!Hauptkategorie" cy="517.6733" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-42.006645"
-                class="Kunst und Kultur" cy="-12.149476" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="308.62604"
+                class="Musikgruppe" cy="-464.793" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-50.62799"
-                class="Sachsystematik" cy="-193.28516" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="324.79776"
+                class="Künstlergruppe (Musik)" cy="-252.27274" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="27.388569"
-                class="!Hauptkategorie" cy="-268.88962" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="321.1881"
+                class="Künstlergruppe" cy="-61.86557" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-233.32303"
-                class="Personengruppe nach Sachgebiet" cy="-15.629354"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="495.90567"
+                class="Personengruppe nach Sachgebiet" cy="157.14778"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-116.75567"
-                class="Künstlergruppen" cy="1.5200114" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="430.65894"
+                class="Künstlergruppen" cy="176.07095" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-298.2874"
-                class="Personen (Kunst und Kultur)" cy="-60.49498"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="326.11584"
+                class="Personen (Kunst und Kultur)" cy="289.39868"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-180.85489"
-                class="Soziale Gruppen" cy="-193.3218" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="393.164"
+                class="Soziale Gruppen" cy="417.90036" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-115.05083"
-                class="Organisationen (Gesellschaft)" cy="-208.14835"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="199.02942"
+                class="Organisationen (Gesellschaft)" cy="530.84247"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-255.29045"
-                class="Personengruppen" cy="-159.75842" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="541.1777"
+                class="Personengruppen" cy="398.699" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-121.594505"
-                class="Personen" cy="-149.12173" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="309.6925"
+                class="Personen" cy="470.24426" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-33.193047"
-                class="Gesellschaft" cy="-221.8638" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-35.356644"
+                class="Gesellschaft" cy="372.19675" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-85.34225"
-                class="Organisationen nach Sachgebiet" cy="-298.63788"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="204.95564"
+                class="Organisationen nach Sachgebiet" cy="726.18695"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-35.29607"
-                class="Organisationen" cy="-283.7316" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="92.35013"
+                class="Organisationen" cy="698.44446" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-155.10501"
-                class="Personen nach Sachgebiet" cy="-178.46194"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="437.34427"
+                class="Personen nach Sachgebiet" cy="341.6191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="622.3181"
+                class="Personengruppe" cy="309.69165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="102.300064"
+                class="Band nach Staat" cy="-693.11707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-34.650673"
+                class="Musikgruppe (Vereinigte Staaten)" cy="-510.45892"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-265.63605"
-                class="Personengruppe" cy="-122.3773" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="53.715454"
+                class="Musikgruppe nach Staat" cy="-530.2934" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-226.75026"
-                class="Jugendkultur" cy="34.75298" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-111.214935"
-                class="Subkultur" cy="42.82468" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-120.20648"
-                class="Soziale Bewegungen" cy="-48.028595" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-297.31165"
-                class="Jugend" cy="53.131126" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-233.4071"
-                class="Kindheit und Jugend" cy="-107.25794" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-165.1816"
-                class="Lebensstadien" cy="-93.11921" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-182.1282"
-                class="Popmusik" cy="115.27898" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="16.589245"
-                class="Band nach Staat" cy="292.90344" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="63.96095"
-                class="Musikgruppe (Vereinigte Staaten)" cy="306.643"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-276.35437"
+                class="Musik (Vereinigte Staaten)" cy="-477.0392"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="106.4372"
-                class="Musikgruppe nach Staat" cy="270.45532" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="102.993904"
-                class="Musik (Vereinigte Staaten)" cy="232.13713"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="66.07259"
+                class="Künstlergruppe (Vereinigte Staaten)" cy="-290.61975"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="169.37132"
-                class="Künstlergruppe (Vereinigte Staaten)" cy="81.4368"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-254.67978"
+                class="Kunst (Vereinigte Staaten)" cy="-348.16428"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="188.71762"
-                class="Kunst (Vereinigte Staaten)" cy="161.07796"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-380.0555"
+                class="Kunst nach Staat" cy="-271.32172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-495.90292"
+                class="Kultur (Vereinigte Staaten)" cy="-322.18387"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="79.6474"
-                class="Kunst nach Staat" cy="67.45291" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-612.0047"
+                class="Vereinigte Staaten" cy="-197.7721" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="146.35393"
-                class="Kultur (Vereinigte Staaten)" cy="146.1149"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-427.2189"
+                class="Kultur nach Staat" cy="-195.72902" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-773.0325"
+                class="Kultur (Nordamerika)" cy="-226.86006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-851.88654"
+                class="Kultur (Amerika)" cy="-97.16274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-945.59204"
+                class="Nordamerika" cy="-72.449814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-891.30804"
+                class="Amerika" cy="6.5246677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-929.362"
+                class="Kontinent als Thema" cy="116.32932" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-709.74243"
+                class="Erde" cy="263.99255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-480.59366"
+                class="Räumliche Systematik" cy="407.4303" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-626.8978"
+                class="Kultur nach Kontinent" cy="3.069209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-356.3026"
+                class="Kultur nach räumlicher Zuordnung" cy="-34.156784"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="133.8804"
-                class="Vereinigte Staaten" cy="111.044846" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-560.27386"
+                class="Thema nach Kontinent" cy="226.49113" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="154.07272"
-                class="Kultur nach Staat" cy="54.120937" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-320.08636"
+                class="Räumliche Sachsystematik" cy="307.32193" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="329.71075"
-                class="Kultur (Nordamerika)" cy="139.42229" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="277.55728"
-                class="Kultur (Amerika)" cy="66.95642" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="392.39554"
-                class="Nordamerika" cy="-28.121984" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="238.17673"
-                class="Amerika" cy="-65.15373" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="250.70192"
-                class="Kontinent als Thema" cy="-190.79202" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="193.06792"
-                class="Erde" cy="-213.69337" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="86.8266"
-                class="Räumliche Systematik" cy="-235.65652" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="311.24564"
-                class="Kultur nach Kontinent" cy="-52.508" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="67.73852"
-                class="Kultur nach räumlicher Zuordnung" cy="13.571395"
-                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="94.60088"
-                class="Thema nach Kontinent" cy="-200.85156" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="39.72128"
-                class="Räumliche Sachsystematik" cy="-178.52141"
-                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="15.368465"
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-188.54102"
                 class="Kunst und Kultur nach räumlicher Zuordnung"
-                cy="-115.75326" stroke="#000000" stroke-opacity="1.0"
+                cy="140.71556" stroke="#000000" stroke-opacity="1.0"
                 stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="76.77631"
-                class="Thema nach Staat" cy="-87.87341" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-477.71484"
+                class="Thema nach Staat" cy="86.1603" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="115.7125"
-                class="Staaten" cy="-129.41669" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-681.21454"
+                class="Staaten" cy="116.38724" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="314.30185"
-                class="Staat als Thema" cy="-15.39332" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-729.5251"
+                class="Staat als Thema" cy="-80.089554" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="107.221115"
-                class="Kunst nach räumlicher Zuordnung" cy="-45.765663"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-263.1991"
+                class="Kunst nach räumlicher Zuordnung" cy="-53.117573"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="56.6828"
-                class="Musik nach Staat" cy="175.0132" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-194.39688"
+                class="Musik nach Staat" cy="-374.86526" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="58.50535"
-                class="Musik nach räumlicher Zuordnung" cy="96.14014"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-70.98945"
+                class="Musik nach räumlicher Zuordnung" cy="-186.4294"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-252.47156"
-                class="Musikgruppe als Thema" cy="73.50466" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="501.83188"
+                class="Punk" cy="-40.48041" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-289.1802"
-                class="Künstlergruppe als Thema" cy="-0.69545287"
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="545.6863"
+                class="Jugendkultur" cy="213.34851" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="343.94366"
+                class="Subkultur" cy="194.03232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="189.93587"
+                class="Soziale Bewegungen" cy="324.94467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="595.341"
+                class="Jugend" cy="459.15952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="473.83374"
+                class="Kindheit und Jugend" cy="623.8727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="249.40257"
+                class="Lebensstadien" cy="623.44354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="460.15607"
+                class="Musikgruppe als Thema" cy="-98.73339" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="586.742"
+                class="Künstlergruppe als Thema" cy="97.399925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="677.3316"
+                class="Personengruppe als Thema" cy="272.49103" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="102.26102"
+                class="Grammy Awards" cy="-211.13106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="55.730854"
+                class="Musikpreisträger" cy="-122.40621" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-220.35446"
+                class="Preisträger (Vereinigte Staaten)" cy="-147.82614"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-326.7267"
-                class="Personengruppe als Thema" cy="-45.956463"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-247.39856"
+                class="Preisträger nach Staat" cy="-14.7801895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-487.4506"
+                class="Gesellschaft (Vereinigte Staaten)" cy="-86.61932"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="32.114006"
-                class="Grammy Awards" cy="43.633545" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-417.76834"
+                class="Gesellschaft nach Staat" cy="53.258785" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-29.067421"
-                class="Musikpreisträger" cy="115.961845" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-697.0601"
+                class="Gesellschaft (Amerika)" cy="27.351042" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="134.93454"
-                class="Preisträger (Vereinigte Staaten)" cy="-21.184258"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-594.2407"
+                class="Gesellschaft nach Kontinent" cy="170.18904"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="126.04577"
-                class="Preisträger nach Staat" cy="-73.77317" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="157.97968"
-                class="Gesellschaft (Vereinigte Staaten)" cy="-1.4685001"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-335.06506"
+                class="Gesellschaft nach räumlicher Zuordnung" cy="250.36935"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="82.90223"
-                class="Gesellschaft nach Staat" cy="-149.49933" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-87.97519"
+                class="Preisträger" cy="112.02066" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="230.21231"
-                class="Gesellschaft (Amerika)" cy="-136.36285" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-82.50818"
+                class="Preisverleihungen" cy="337.245" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="121.95993"
-                class="Gesellschaft nach Kontinent" cy="-249.54338"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-45.46278"
+                class="Auszeichnungen" cy="236.61807" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-44.62577"
+                class="Veranstaltungen" cy="549.62665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-42.60239"
+                class="Ereignisse" cy="681.9115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="11.913409"
+                class="Musikpreis als Thema" cy="-102.91154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="121.367165"
+                class="Musikalische Veranstaltung als Thema" cy="92.90473"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="237.77612"
-                class="Gesellschaft nach räumlicher Zuordnung" cy="-263.2588"
-                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-2.7766101"
-                class="Preisträger" cy="-60.612747" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-2.8855522"
+                class="Auszeichnung als Thema" cy="70.53878" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-9.004099"
-                class="Preisverleihungen" cy="-135.6319" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-48.033524"
-                class="Auszeichnungen" cy="-100.76143" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-145.53"
-                class="Veranstaltungen" cy="-130.51524" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-53.98773"
-                class="Ereignisse" cy="-250.8969" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-58.806885"
-                class="Musikpreis als Thema" cy="81.19322" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-275.95044"
-                class="Musikalische Veranstaltung als Thema" cy="16.96414"
-                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-49.77129"
-                class="Auszeichnung als Thema" cy="28.686111" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-141.70554"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="92.60823"
                 class="Veranstaltung (Kunst und Kultur) als Thema"
-                cy="-30.727533" stroke="#000000" stroke-opacity="1.0"
+                cy="389.87924" stroke="#000000" stroke-opacity="1.0"
                 stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-117.54904"
-                class="Veranstaltungen (Kunst und Kultur)" cy="-75.529785"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="63.38812"
+                class="Veranstaltungen (Kunst und Kultur)" cy="458.73526"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-78.32345"
-                class="Veranstaltung als Thema" cy="-163.48209" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="23.494455"
+                class="Veranstaltung als Thema" cy="623.1918" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-117.55166"
-                class="Ereignis als Thema" cy="-266.00473" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="-19.204323"
+                class="Ereignis als Thema" cy="794.00745" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-3.6052535"
-                class="Echo (Musikpreis)" cy="160.9989" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-56.217503"
+                class="Echo (Musikpreis)" cy="-436.55463" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="184.10696"
-                class="Preisträger (Deutschland)" cy="35.84205" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="175.82834"
-                class="Gesellschaft (Deutschland)" cy="-101.06075"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-299.53268"
+                class="Preisträger (Deutschland)" cy="-167.35939"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="237.49013"
-                class="Deutschland" cy="22.059605" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="208.84514"
-                class="Gesellschaft (Europa)" cy="-163.53444" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="223.1725"
-                class="Europa" cy="-115.46851" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="301.7796"
-                class="Eurasien" cy="-114.57001" stroke="#000000"
-                stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="64.11229"
-                class="Musikpreis (Deutschland) als Thema" cy="216.59296"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-547.01086"
+                class="Gesellschaft (Deutschland)" cy="-62.981873"
                 stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="176.0453"
-                class="Musik (Deutschland)" cy="202.26566" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-692.84753"
+                class="Deutschland" cy="-169.77254" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="196.17084"
-                class="Kunst (Deutschland)" cy="186.98633" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-745.4999"
+                class="Gesellschaft (Europa)" cy="57.44599" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="191.72281"
-                class="Kultur (Deutschland)" cy="125.56077" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-936.8431"
+                class="Europa" cy="34.211987" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="286.08514"
-                class="Kultur (Europa)" cy="-36.18099" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="-1073.8553"
+                class="Eurasien" cy="105.1865" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-92.872505"
-                class="Rockband" cy="202.92882" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-116.91079"
+                class="Musikpreis (Deutschland) als Thema" cy="-329.18723"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-305.06952"
+                class="Musik (Deutschland)" cy="-427.79642" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
-        <circle fill-opacity="1.0" fill="#fa9200" r="10.0" cx="-184.83688"
-                class="Rock (Musik)" cy="217.45302" stroke="#000000"
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-485.33914"
+                class="Kunst (Deutschland)" cy="-392.06662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-628.33496"
+                class="Kultur (Deutschland)" cy="-259.5086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-775.0478"
+                class="Kultur (Europa)" cy="-116.07282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="605.00104"
+                class="Rockband" cy="-557.4084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="663.51483"
+                class="Rock (Musik)" cy="-423.52457" stroke="#000000"
                 stroke-opacity="1.0" stroke-width="1.0"/>
     </g>
     <g id="node-labels">
-        <text font-size="8" x="-73.913315" y="177.90254" fill="#000000"
+        <text font-size="16" x="270.23706" y="-399.37167" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="de.wikipedia.org">
             de.wikipedia.org
         </text>
-        <text font-size="8" x="-54.611763" y="257.9397" fill="#000000"
+        <text font-size="16" x="446.7341" y="-555.6813" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Alternative-Rock-Band">
             Alternative-Rock-Band
         </text>
-        <text font-size="8" x="22.54926" y="192.76875" fill="#000000"
+        <text font-size="16" x="-12.00419" y="-305.81503" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Echo-Pop-Preisträger">
             Echo-Pop-Preisträger
         </text>
-        <text font-size="8" x="31.46935" y="132.89139" fill="#000000"
+        <text font-size="16" x="40.23244" y="-253.8805" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Grammy-Preisträger">
             Grammy-Preisträger
         </text>
-        <text font-size="8" x="-101.96558" y="102.94493" fill="#000000"
+        <text font-size="16" x="420.8837" y="-280.33832" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Green Day">
             Green Day
         </text>
-        <text font-size="8" x="-173.22437" y="88.8942" fill="#000000"
+        <text font-size="16" x="472.43982" y="-310.99222" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Punkband">
             Punkband
         </text>
-        <text font-size="8" x="-83.130455" y="281.3382" fill="#000000"
+        <text font-size="16" x="142.01581" y="-575.4629" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="US-amerikanische Band">
             US-amerikanische Band
         </text>
-        <text font-size="8" x="-81.551895" y="233.24911" fill="#000000"
+        <text font-size="16" x="474.94775" y="-457.34253" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Pop-Punk-Band">
             Pop-Punk-Band
         </text>
-        <text font-size="8" x="-161.5256" y="192.60744" fill="#000000"
+        <text font-size="16" x="639.79944" y="-487.4323" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Popband">
             Popband
         </text>
-        <text font-size="8" x="-226.35046" y="103.09421" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Punk">
-            Punk
-        </text>
-        <text font-size="8" x="-225.76883" y="245.26093" fill="#000000"
+        <text font-size="16" x="525.0089" y="-438.18622" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikgruppe nach Genre">
             Musikgruppe nach Genre
         </text>
-        <text font-size="8" x="-208.94904" y="142.75356" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Musik nach Genre">
-            Musik nach Genre
-        </text>
-        <text font-size="8" x="-91.51682" y="135.45528" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Musikgruppe">
-            Musikgruppe
-        </text>
-        <text font-size="8" x="-151.85315" y="157.076" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Künstlergruppe (Musik)">
-            Künstlergruppe (Musik)
-        </text>
-        <text font-size="8" x="-203.10464" y="51.799446" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Künstlergruppe">
-            Künstlergruppe
-        </text>
-        <text font-size="8" x="-145.62607" y="68.83184" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Musik">
-            Musik
-        </text>
-        <text font-size="8" x="-53.21097" y="60.36563" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kunst nach Gattung">
-            Kunst nach Gattung
-        </text>
-        <text font-size="8" x="-42.006645" y="-10.601299" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kunst und Kultur">
-            Kunst und Kultur
-        </text>
-        <text font-size="8" x="-50.62799" y="-191.34961" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Sachsystematik">
-            Sachsystematik
-        </text>
-        <text font-size="8" x="27.388569" y="-266.95407" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="!Hauptkategorie">
-            !Hauptkategorie
-        </text>
-        <text font-size="8" x="-233.32303" y="-13.693807" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personengruppe nach Sachgebiet">
-            Personengruppe nach Sachgebiet
-        </text>
-        <text font-size="8" x="-116.75567" y="3.4555583" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Künstlergruppen">
-            Künstlergruppen
-        </text>
-        <text font-size="8" x="-298.2874" y="-58.711777" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personen (Kunst und Kultur)">
-            Personen (Kunst und Kultur)
-        </text>
-        <text font-size="8" x="-180.85489" y="-191.38625" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Soziale Gruppen">
-            Soziale Gruppen
-        </text>
-        <text font-size="8" x="-115.05083" y="-206.2128" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Organisationen (Gesellschaft)">
-            Organisationen (Gesellschaft)
-        </text>
-        <text font-size="8" x="-255.29045" y="-157.88408" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personengruppen">
-            Personengruppen
-        </text>
-        <text font-size="8" x="-121.594505" y="-147.63477" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personen">
-            Personen
-        </text>
-        <text font-size="8" x="-33.193047" y="-220.31563" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Gesellschaft">
-            Gesellschaft
-        </text>
-        <text font-size="8" x="-85.34225" y="-296.70233" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Organisationen nach Sachgebiet">
-            Organisationen nach Sachgebiet
-        </text>
-        <text font-size="8" x="-35.29607" y="-281.79605" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Organisationen">
-            Organisationen
-        </text>
-        <text font-size="8" x="-155.10501" y="-176.5264" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personen nach Sachgebiet">
-            Personen nach Sachgebiet
-        </text>
-        <text font-size="8" x="-265.63605" y="-120.502945" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Personengruppe">
-            Personengruppe
-        </text>
-        <text font-size="8" x="-226.75026" y="36.688526" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Jugendkultur">
-            Jugendkultur
-        </text>
-        <text font-size="8" x="-111.214935" y="44.372856" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Subkultur">
-            Subkultur
-        </text>
-        <text font-size="8" x="-120.20648" y="-46.09305" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Soziale Bewegungen">
-            Soziale Bewegungen
-        </text>
-        <text font-size="8" x="-297.31165" y="55.066673" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Jugend">
-            Jugend
-        </text>
-        <text font-size="8" x="-233.4071" y="-105.322395" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Kindheit und Jugend">
-            Kindheit und Jugend
-        </text>
-        <text font-size="8" x="-165.1816" y="-91.57103" fill="#000000"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Dialog" class="Lebensstadien">
-            Lebensstadien
-        </text>
-        <text font-size="8" x="-182.1282" y="117.21452" fill="#000000"
+        <text font-size="16" x="693.3333" y="-371.98874" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Popmusik">
             Popmusik
         </text>
-        <text font-size="8" x="16.589245" y="294.45163" fill="#000000"
+        <text font-size="16" x="526.4675" y="-258.98734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Musik nach Genre">
+            Musik nach Genre
+        </text>
+        <text font-size="16" x="238.95432" y="-113.77417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Musik">
+            Musik
+        </text>
+        <text font-size="16" x="226.84442" y="77.369835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kunst nach Gattung">
+            Kunst nach Gattung
+        </text>
+        <text font-size="16" x="112.11341" y="277.14136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kunst und Kultur">
+            Kunst und Kultur
+        </text>
+        <text font-size="16" x="3.3877718" y="501.62503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sachsystematik">
+            Sachsystematik
+        </text>
+        <text font-size="16" x="-262.4865" y="521.5444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="!Hauptkategorie">
+            !Hauptkategorie
+        </text>
+        <text font-size="16" x="308.62604" y="-460.9219" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Musikgruppe">
+            Musikgruppe
+        </text>
+        <text font-size="16" x="324.79776" y="-248.40164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Künstlergruppe (Musik)">
+            Künstlergruppe (Musik)
+        </text>
+        <text font-size="16" x="321.1881" y="-57.994476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Künstlergruppe">
+            Künstlergruppe
+        </text>
+        <text font-size="16" x="495.90567" y="161.01888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personengruppe nach Sachgebiet">
+            Personengruppe nach Sachgebiet
+        </text>
+        <text font-size="16" x="430.65894" y="179.94205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Künstlergruppen">
+            Künstlergruppen
+        </text>
+        <text font-size="16" x="326.11584" y="292.9651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personen (Kunst und Kultur)">
+            Personen (Kunst und Kultur)
+        </text>
+        <text font-size="16" x="393.164" y="421.77145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Soziale Gruppen">
+            Soziale Gruppen
+        </text>
+        <text font-size="16" x="199.02942" y="534.71356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Organisationen (Gesellschaft)">
+            Organisationen (Gesellschaft)
+        </text>
+        <text font-size="16" x="541.1777" y="402.4477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personengruppen">
+            Personengruppen
+        </text>
+        <text font-size="16" x="309.6925" y="473.2182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personen">
+            Personen
+        </text>
+        <text font-size="16" x="-35.356644" y="375.2931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gesellschaft">
+            Gesellschaft
+        </text>
+        <text font-size="16" x="204.95564" y="730.05804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Organisationen nach Sachgebiet">
+            Organisationen nach Sachgebiet
+        </text>
+        <text font-size="16" x="92.35013" y="702.31555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Organisationen">
+            Organisationen
+        </text>
+        <text font-size="16" x="437.34427" y="345.4902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personen nach Sachgebiet">
+            Personen nach Sachgebiet
+        </text>
+        <text font-size="16" x="622.3181" y="313.44034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Personengruppe">
+            Personengruppe
+        </text>
+        <text font-size="16" x="102.300064" y="-690.0207" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Band nach Staat">
             Band nach Staat
         </text>
-        <text font-size="8" x="63.96095" y="308.57855" fill="#000000"
+        <text font-size="16" x="-34.650673" y="-506.58783" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikgruppe (Vereinigte Staaten)">
             Musikgruppe (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="106.4372" y="272.39087" fill="#000000"
+        <text font-size="16" x="53.715454" y="-526.4223" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikgruppe nach Staat">
             Musikgruppe nach Staat
         </text>
-        <text font-size="8" x="102.993904" y="234.07268" fill="#000000"
+        <text font-size="16" x="-276.35437" y="-473.16812" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musik (Vereinigte Staaten)">
             Musik (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="169.37132" y="83.372345" fill="#000000"
+        <text font-size="16" x="66.07259" y="-286.74866" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Künstlergruppe (Vereinigte Staaten)">
             Künstlergruppe (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="188.71762" y="163.0135" fill="#000000"
+        <text font-size="16" x="-254.67978" y="-344.29318" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kunst (Vereinigte Staaten)">
             Kunst (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="79.6474" y="69.00109" fill="#000000"
+        <text font-size="16" x="-380.0555" y="-268.22537" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kunst nach Staat">
             Kunst nach Staat
         </text>
-        <text font-size="8" x="146.35393" y="148.05045" fill="#000000"
+        <text font-size="16" x="-495.90292" y="-318.31277" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur (Vereinigte Staaten)">
             Kultur (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="133.8804" y="112.98039" fill="#000000"
+        <text font-size="16" x="-612.0047" y="-193.901" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Vereinigte Staaten">
             Vereinigte Staaten
         </text>
-        <text font-size="8" x="154.07272" y="55.669113" fill="#000000"
+        <text font-size="16" x="-427.2189" y="-192.63266" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur nach Staat">
             Kultur nach Staat
         </text>
-        <text font-size="8" x="329.71075" y="141.20549" fill="#000000"
+        <text font-size="16" x="-773.0325" y="-223.29366" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur (Nordamerika)">
             Kultur (Nordamerika)
         </text>
-        <text font-size="8" x="277.55728" y="68.739624" fill="#000000"
+        <text font-size="16" x="-851.88654" y="-93.59634" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur (Amerika)">
             Kultur (Amerika)
         </text>
-        <text font-size="8" x="392.39554" y="-26.573807" fill="#000000"
+        <text font-size="16" x="-945.59204" y="-69.35346" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Nordamerika">
             Nordamerika
         </text>
-        <text font-size="8" x="238.17673" y="-63.605553" fill="#000000"
+        <text font-size="16" x="-891.30804" y="9.621022" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Amerika">
             Amerika
         </text>
-        <text font-size="8" x="250.70192" y="-189.24385" fill="#000000"
+        <text font-size="16" x="-929.362" y="119.425674" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kontinent als Thema">
             Kontinent als Thema
         </text>
-        <text font-size="8" x="193.06792" y="-212.1452" fill="#000000"
+        <text font-size="16" x="-709.74243" y="267.0889" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Erde">
             Erde
         </text>
-        <text font-size="8" x="86.8266" y="-233.72098" fill="#000000"
+        <text font-size="16" x="-480.59366" y="411.3014" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Räumliche Systematik">
             Räumliche Systematik
         </text>
-        <text font-size="8" x="311.24564" y="-50.959824" fill="#000000"
+        <text font-size="16" x="-626.8978" y="6.1655636" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur nach Kontinent">
             Kultur nach Kontinent
         </text>
-        <text font-size="8" x="67.73852" y="15.506942" fill="#000000"
+        <text font-size="16" x="-356.3026" y="-30.28569" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur nach räumlicher Zuordnung">
             Kultur nach räumlicher Zuordnung
         </text>
-        <text font-size="8" x="94.60088" y="-199.30339" fill="#000000"
+        <text font-size="16" x="-560.27386" y="229.5875" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Thema nach Kontinent">
             Thema nach Kontinent
         </text>
-        <text font-size="8" x="39.72128" y="-176.58586" fill="#000000"
+        <text font-size="16" x="-320.08636" y="311.19302" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Räumliche Sachsystematik">
             Räumliche Sachsystematik
         </text>
-        <text font-size="8" x="15.368465" y="-113.81771" fill="#000000"
+        <text font-size="16" x="-188.54102" y="144.58665" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog"
               class="Kunst und Kultur nach räumlicher Zuordnung">
             Kunst und Kultur nach räumlicher Zuordnung
         </text>
-        <text font-size="8" x="76.77631" y="-86.32523" fill="#000000"
+        <text font-size="16" x="-477.71484" y="89.25665" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Thema nach Staat">
             Thema nach Staat
         </text>
-        <text font-size="8" x="115.7125" y="-127.90367" fill="#000000"
+        <text font-size="16" x="-681.21454" y="119.41328" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Staaten">
             Staaten
         </text>
-        <text font-size="8" x="314.30185" y="-13.845143" fill="#000000"
+        <text font-size="16" x="-729.5251" y="-76.9932" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Staat als Thema">
             Staat als Thema
         </text>
-        <text font-size="8" x="107.221115" y="-43.830116" fill="#000000"
+        <text font-size="16" x="-263.1991" y="-49.24648" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kunst nach räumlicher Zuordnung">
             Kunst nach räumlicher Zuordnung
         </text>
-        <text font-size="8" x="56.6828" y="176.56137" fill="#000000"
+        <text font-size="16" x="-194.39688" y="-371.76892" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musik nach Staat">
             Musik nach Staat
         </text>
-        <text font-size="8" x="58.50535" y="98.07568" fill="#000000"
+        <text font-size="16" x="-70.98945" y="-182.5583" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musik nach räumlicher Zuordnung">
             Musik nach räumlicher Zuordnung
         </text>
-        <text font-size="8" x="-252.47156" y="75.44021" fill="#000000"
+        <text font-size="16" x="501.83188" y="-37.384056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Punk">
+            Punk
+        </text>
+        <text font-size="16" x="545.6863" y="217.2196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Jugendkultur">
+            Jugendkultur
+        </text>
+        <text font-size="16" x="343.94366" y="197.12868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Subkultur">
+            Subkultur
+        </text>
+        <text font-size="16" x="189.93587" y="328.81577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Soziale Bewegungen">
+            Soziale Bewegungen
+        </text>
+        <text font-size="16" x="595.341" y="463.0306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Jugend">
+            Jugend
+        </text>
+        <text font-size="16" x="473.83374" y="627.7438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kindheit und Jugend">
+            Kindheit und Jugend
+        </text>
+        <text font-size="16" x="249.40257" y="626.5399" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lebensstadien">
+            Lebensstadien
+        </text>
+        <text font-size="16" x="460.15607" y="-94.8623" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikgruppe als Thema">
             Musikgruppe als Thema
         </text>
-        <text font-size="8" x="-289.1802" y="1.2400942" fill="#000000"
+        <text font-size="16" x="586.742" y="101.27102" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Künstlergruppe als Thema">
             Künstlergruppe als Thema
         </text>
-        <text font-size="8" x="-326.7267" y="-44.020916" fill="#000000"
+        <text font-size="16" x="677.3316" y="276.36212" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Personengruppe als Thema">
             Personengruppe als Thema
         </text>
-        <text font-size="8" x="32.114006" y="45.56909" fill="#000000"
+        <text font-size="16" x="102.26102" y="-207.25996" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Grammy Awards">
             Grammy Awards
         </text>
-        <text font-size="8" x="-29.067421" y="117.89739" fill="#000000"
+        <text font-size="16" x="55.730854" y="-118.53512" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikpreisträger">
             Musikpreisträger
         </text>
-        <text font-size="8" x="134.93454" y="-19.24871" fill="#000000"
+        <text font-size="16" x="-220.35446" y="-143.95505" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Preisträger (Vereinigte Staaten)">
             Preisträger (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="126.04577" y="-71.83762" fill="#000000"
+        <text font-size="16" x="-247.39856" y="-10.909096" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Preisträger nach Staat">
             Preisträger nach Staat
         </text>
-        <text font-size="8" x="157.97968" y="0.46704674" fill="#000000"
+        <text font-size="16" x="-487.4506" y="-82.74823" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft (Vereinigte Staaten)">
             Gesellschaft (Vereinigte Staaten)
         </text>
-        <text font-size="8" x="82.90223" y="-147.95116" fill="#000000"
+        <text font-size="16" x="-417.76834" y="56.35514" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft nach Staat">
             Gesellschaft nach Staat
         </text>
-        <text font-size="8" x="230.21231" y="-134.57965" fill="#000000"
+        <text font-size="16" x="-697.0601" y="30.917448" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft (Amerika)">
             Gesellschaft (Amerika)
         </text>
-        <text font-size="8" x="121.95993" y="-247.99521" fill="#000000"
+        <text font-size="16" x="-594.2407" y="173.2854" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft nach Kontinent">
             Gesellschaft nach Kontinent
         </text>
-        <text font-size="8" x="237.77612" y="-261.32324" fill="#000000"
+        <text font-size="16" x="-335.06506" y="254.24045" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog"
               class="Gesellschaft nach räumlicher Zuordnung">
             Gesellschaft nach räumlicher Zuordnung
         </text>
-        <text font-size="8" x="-2.7766101" y="-58.6772" fill="#000000"
+        <text font-size="16" x="-87.97519" y="115.891754" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Preisträger">
             Preisträger
         </text>
-        <text font-size="8" x="-9.004099" y="-133.69635" fill="#000000"
+        <text font-size="16" x="-82.50818" y="341.1161" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Preisverleihungen">
             Preisverleihungen
         </text>
-        <text font-size="8" x="-48.033524" y="-98.82588" fill="#000000"
+        <text font-size="16" x="-45.46278" y="240.48917" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Auszeichnungen">
             Auszeichnungen
         </text>
-        <text font-size="8" x="-145.53" y="-128.5797" fill="#000000"
+        <text font-size="16" x="-44.62577" y="553.49774" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Veranstaltungen">
             Veranstaltungen
         </text>
-        <text font-size="8" x="-53.98773" y="-248.96135" fill="#000000"
+        <text font-size="16" x="-42.60239" y="685.7826" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Ereignisse">
             Ereignisse
         </text>
-        <text font-size="8" x="-58.806885" y="83.12877" fill="#000000"
+        <text font-size="16" x="11.913409" y="-99.04044" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikpreis als Thema">
             Musikpreis als Thema
         </text>
-        <text font-size="8" x="-275.95044" y="18.899687" fill="#000000"
+        <text font-size="16" x="121.367165" y="96.775826" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikalische Veranstaltung als Thema">
             Musikalische Veranstaltung als Thema
         </text>
-        <text font-size="8" x="-49.77129" y="30.621658" fill="#000000"
+        <text font-size="16" x="-2.8855522" y="74.409874" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Auszeichnung als Thema">
             Auszeichnung als Thema
         </text>
-        <text font-size="8" x="-141.70554" y="-28.791986" fill="#000000"
+        <text font-size="16" x="92.60823" y="393.75034" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog"
               class="Veranstaltung (Kunst und Kultur) als Thema">
             Veranstaltung (Kunst und Kultur) als Thema
         </text>
-        <text font-size="8" x="-117.54904" y="-73.59424" fill="#000000"
+        <text font-size="16" x="63.38812" y="462.60635" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Veranstaltungen (Kunst und Kultur)">
             Veranstaltungen (Kunst und Kultur)
         </text>
-        <text font-size="8" x="-78.32345" y="-161.54654" fill="#000000"
+        <text font-size="16" x="23.494455" y="627.06287" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Veranstaltung als Thema">
             Veranstaltung als Thema
         </text>
-        <text font-size="8" x="-117.55166" y="-264.06918" fill="#000000"
+        <text font-size="16" x="-19.204323" y="797.87854" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Ereignis als Thema">
             Ereignis als Thema
         </text>
-        <text font-size="8" x="-3.6052535" y="162.93445" fill="#000000"
+        <text font-size="16" x="-56.217503" y="-432.68353" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Echo (Musikpreis)">
             Echo (Musikpreis)
         </text>
-        <text font-size="8" x="184.10696" y="37.777596" fill="#000000"
+        <text font-size="16" x="-299.53268" y="-163.4883" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Preisträger (Deutschland)">
             Preisträger (Deutschland)
         </text>
-        <text font-size="8" x="175.82834" y="-99.27755" fill="#000000"
+        <text font-size="16" x="-547.01086" y="-59.415466" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft (Deutschland)">
             Gesellschaft (Deutschland)
         </text>
-        <text font-size="8" x="237.49013" y="23.607782" fill="#000000"
+        <text font-size="16" x="-692.84753" y="-166.67618" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Deutschland">
             Deutschland
         </text>
-        <text font-size="8" x="208.84514" y="-161.59889" fill="#000000"
+        <text font-size="16" x="-745.4999" y="61.317085" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Gesellschaft (Europa)">
             Gesellschaft (Europa)
         </text>
-        <text font-size="8" x="223.1725" y="-113.59416" fill="#000000"
+        <text font-size="16" x="-936.8431" y="37.960686" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Europa">
             Europa
         </text>
-        <text font-size="8" x="301.7796" y="-113.02183" fill="#000000"
+        <text font-size="16" x="-1073.8553" y="108.28285" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Eurasien">
             Eurasien
         </text>
-        <text font-size="8" x="64.11229" y="218.5285" fill="#000000"
+        <text font-size="16" x="-116.91079" y="-325.31613" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musikpreis (Deutschland) als Thema">
             Musikpreis (Deutschland) als Thema
         </text>
-        <text font-size="8" x="176.0453" y="204.04886" fill="#000000"
+        <text font-size="16" x="-305.06952" y="-424.23" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Musik (Deutschland)">
             Musik (Deutschland)
         </text>
-        <text font-size="8" x="196.17084" y="188.76953" fill="#000000"
+        <text font-size="16" x="-485.33914" y="-388.5002" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kunst (Deutschland)">
             Kunst (Deutschland)
         </text>
-        <text font-size="8" x="191.72281" y="127.34397" fill="#000000"
+        <text font-size="16" x="-628.33496" y="-255.9422" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur (Deutschland)">
             Kultur (Deutschland)
         </text>
-        <text font-size="8" x="286.08514" y="-34.24544" fill="#000000"
+        <text font-size="16" x="-775.0478" y="-112.20173" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Kultur (Europa)">
             Kultur (Europa)
         </text>
-        <text font-size="8" x="-92.872505" y="204.47699" fill="#000000"
+        <text font-size="16" x="605.00104" y="-554.312" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Rockband">
             Rockband
         </text>
-        <text font-size="8" x="-184.83688" y="219.23622" fill="#000000"
+        <text font-size="16" x="663.51483" y="-419.95816" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Dialog" class="Rock (Musik)">
             Rock (Musik)
